@@ -73,7 +73,7 @@ https://rvgl.org/downloads/rvgl_launcher_linux.zip
 ./rvgl.64 -basepath /ssdgames/rvgl -prefpath /ssdgames/rvgl/save -packlist default -nop2p -sessionlog -nointro -nopause -profile cassbeck -savereplays -showping -tvtime
 
 # Troubleshooting
-## Unpair a Blutooth joypad:
+## Unpair a Bluetooth joypad:
 ```
 ssh rvgl@rvgl-1.local
 bluetoothctl
@@ -81,4 +81,4 @@ cancel-pairing BT_ADDRESS
 remove BT_ADDRESS
 ```
 
-BT XBox controller white: C8:3F:26:9A:A3:87
+
