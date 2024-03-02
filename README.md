@@ -46,6 +46,39 @@ Update Raspberry pi OS:
 ./execute_on_cluster.sh update
 ```
 
+Install packages needed by rvgl:
+```
+./execute_on_cluster.sh packages_to_install
+```
+
+Install remote files:
+```
+./deploy_files_on_cluster.sh
+```
+
+Configure Bluetooth devices on each cluster member
+```
+ssh rvgl@rvgl-1.local
+bluetoothctl
+scan on
+pair BT_ADDRESS
+connect BT_ADDRESS
+```
+
 
 Install RVGL Launcher on your linux machine
 https://rvgl.org/downloads/rvgl_launcher_linux.zip
+
+
+./rvgl.64 -basepath /ssdgames/rvgl -prefpath /ssdgames/rvgl/save -packlist default -nop2p -sessionlog -nointro -nopause -profile cassbeck -savereplays -showping -tvtime
+
+# Troubleshooting
+## Unpair a Blutooth joypad:
+```
+ssh rvgl@rvgl-1.local
+bluetoothctl
+cancel-pairing BT_ADDRESS
+remove BT_ADDRESS
+```
+
+BT XBox controller white: C8:3F:26:9A:A3:87

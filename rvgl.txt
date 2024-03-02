@@ -6,17 +6,6 @@ aptitude install p7zip-full xdg-utils libenet7 libsdl2-image-2.0-0 libncursesw5-
 
 
 
-/home/rvgl/.config/pcmanfm/LXDE-pi/desktop-items-0.conf
-[*]
-desktop_bg=#D6D3DE
-desktop_shadow=#D6D3DE
-desktop_fg=#E8E8E8
-desktop_font=PibotoLt 12
-wallpaper=/home/rvgl/revolt_3.jpg
-wallpaper_mode=crop
-show_documents=0
-show_trash=0
-show_mounts=0
 
 
 
