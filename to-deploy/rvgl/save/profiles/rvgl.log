@@ -1,0 +1,2566 @@
+RVGL Error Log File
+Compilation date: 19:39:20, Oct 27 2023
+Architecture: Linux (64-bit arm)
+Build: 23.1030a1
+
+Base path: '/home/rvgl/rvgl/'
+Pref path: '/home/rvgl/rvgl/save/'
+
+Loading: packs/default.txt: Found
+
+Enabled pack: game_files (read-only)
+Enabled pack: io_cars (read-only)
+Enabled pack: io_cars_bonus (read-only)
+Enabled pack: io_clockworks (read-only)
+Enabled pack: io_clockworks_modern (read-only)
+Enabled pack: io_lmstag (read-only)
+Enabled pack: io_loadlevel (read-only)
+Enabled pack: io_music (read-only)
+Enabled pack: io_skins (read-only)
+Enabled pack: io_skins_bonus (read-only)
+Enabled pack: io_tracks (read-only)
+Enabled pack: io_tracks_bonus (read-only)
+Enabled pack: io_tracks_circuit (read-only)
+Enabled pack: io_soundtrack (read-only)
+Enabled pack: rvgl_assets (read-only)
+Enabled pack: rvgl_dcpack (read-only)
+Enabled pack: local (writable)
+
+Timer Frequency: 1000000000
+
+Loading: profiles/rvgl.ini: Not Found
+Loading: packs/rvgl_assets/strings/spanish.txt: Found
+Loading: packs/rvgl_assets/strings/hungarian.txt: Found
+Loading: packs/rvgl_assets/strings/italian.txt: Found
+Loading: packs/rvgl_assets/strings/turkish.txt: Found
+Loading: packs/rvgl_assets/strings/slovak.txt: Found
+Loading: packs/rvgl_assets/strings/basque.txt: Found
+Loading: packs/rvgl_assets/strings/dutch.txt: Found
+Loading: packs/rvgl_assets/strings/french.txt: Found
+Loading: packs/rvgl_assets/strings/portuguese.txt: Found
+Loading: packs/rvgl_assets/strings/german.txt: Found
+Loading: packs/rvgl_assets/strings/english.txt: Found
+Loading: packs/rvgl_assets/strings/czech.txt: Found
+Loading: packs/rvgl_assets/strings/romanian.txt: Found
+Loading: packs/rvgl_assets/strings/slovenian.txt: Found
+Loading: packs/rvgl_assets/strings/serbian.txt: Found
+Loading: packs/rvgl_assets/strings/lithuanian.txt: Found
+Loading: packs/rvgl_assets/strings/polish.txt: Found
+Loading: packs/rvgl_assets/strings/swedish.txt: Found
+
+Found language: Euskara (basque.txt)
+Found language: Čeština (czech.txt)
+Found language: Nederlands (dutch.txt)
+Found language: English (english.txt)
+Found language: Français (french.txt)
+Found language: Deutsch (german.txt)
+Found language: Magyar (hungarian.txt)
+Found language: Italiano (italian.txt)
+Found language: Lietuvių (lithuanian.txt)
+Found language: Polski (polish.txt)
+Found language: Português (portuguese.txt)
+Found language: Română (romanian.txt)
+Found language: Srpski (serbian.txt)
+Found language: Slovenčina (slovak.txt)
+Found language: Slovenščina (slovenian.txt)
+Found language: Español (spanish.txt)
+Found language: Svenska (swedish.txt)
+Found language: Türkçe (turkish.txt)
+
+Loading: packs/rvgl_assets/strings/english.txt: Found
+Loading: packs/rvgl_assets/levels/nhood1/nhood1.inf: Found
+Loading: packs/game_files/levels/nhood1/reversed/nhood1.inf: Not Found
+Loading: packs/rvgl_assets/levels/market2/market2.inf: Found
+Loading: packs/game_files/levels/market2/reversed/market2.inf: Not Found
+Loading: packs/game_files/levels/muse2/muse2.inf: Found
+Loading: packs/game_files/levels/muse2/reversed/muse2.inf: Not Found
+Loading: packs/rvgl_assets/levels/garden1/garden1.inf: Found
+Loading: packs/game_files/levels/garden1/reversed/garden1.inf: Not Found
+Loading: packs/rvgl_dcpack/levels/roof/roof.inf: Found
+Loading: packs/game_files/levels/roof/reversed/roof.inf: Not Found
+Loading: packs/game_files/levels/toylite/toylite.inf: Found
+Loading: packs/game_files/levels/toylite/reversed/toylite.inf: Not Found
+Loading: packs/game_files/levels/wild_west1/wild_west1.inf: Found
+Loading: packs/game_files/levels/wild_west1/reversed/wild_west1.inf: Not Found
+Loading: packs/game_files/levels/toy2/toy2.inf: Found
+Loading: packs/game_files/levels/toy2/reversed/toy2.inf: Not Found
+Loading: packs/game_files/levels/nhood2/nhood2.inf: Found
+Loading: packs/game_files/levels/nhood2/reversed/nhood2.inf: Not Found
+Loading: packs/game_files/levels/ship1/ship1.inf: Found
+Loading: packs/game_files/levels/ship1/reversed/ship1.inf: Not Found
+Loading: packs/game_files/levels/muse1/muse1.inf: Found
+Loading: packs/game_files/levels/muse1/reversed/muse1.inf: Not Found
+Loading: packs/rvgl_assets/levels/market1/market1.inf: Found
+Loading: packs/game_files/levels/market1/reversed/market1.inf: Not Found
+Loading: packs/rvgl_assets/levels/wild_west2/wild_west2.inf: Found
+Loading: packs/game_files/levels/wild_west2/reversed/wild_west2.inf: Not Found
+Loading: packs/game_files/levels/ship2/ship2.inf: Found
+Loading: packs/game_files/levels/ship2/reversed/ship2.inf: Not Found
+Loading: packs/rvgl_assets/levels/frontend/frontend.inf: Found
+Loading: packs/game_files/levels/frontend/reversed/frontend.inf: Not Found
+Loading: packs/rvgl_assets/levels/intro/intro.inf: Found
+Loading: packs/game_files/levels/intro/reversed/intro.inf: Not Found
+Loading: packs/rvgl_assets/levels/stunts/stunts.inf: Found
+Loading: packs/game_files/levels/stunts/reversed/stunts.inf: Not Found
+Loading: packs/rvgl_assets/levels/nhood1_battle/nhood1_battle.inf: Found
+Loading: packs/game_files/levels/nhood1_battle/reversed/nhood1_battle.inf: Not Found
+Loading: packs/rvgl_assets/levels/bot_bat/bot_bat.inf: Found
+Loading: packs/game_files/levels/bot_bat/reversed/bot_bat.inf: Not Found
+Loading: packs/rvgl_assets/levels/markar/markar.inf: Found
+Loading: packs/game_files/levels/markar/reversed/markar.inf: Not Found
+Loading: packs/rvgl_assets/levels/muse_bat/muse_bat.inf: Found
+Loading: packs/game_files/levels/muse_bat/reversed/muse_bat.inf: Not Found
+Loading: packs/game_files/cars/rc/parameters.txt: Found
+Loading: packs/game_files/cars/mite/parameters.txt: Found
+Loading: packs/game_files/cars/phat/parameters.txt: Found
+Loading: packs/game_files/cars/moss/parameters.txt: Found
+Loading: packs/game_files/cars/mud/parameters.txt: Found
+Loading: packs/game_files/cars/beatall/parameters.txt: Found
+Loading: packs/game_files/cars/volken/parameters.txt: Found
+Loading: packs/game_files/cars/tc6/parameters.txt: Found
+Loading: packs/game_files/cars/dino/parameters.txt: Found
+Loading: packs/game_files/cars/candy/parameters.txt: Found
+Loading: packs/game_files/cars/gencar/parameters.txt: Found
+Loading: packs/game_files/cars/tc4/parameters.txt: Found
+Loading: packs/game_files/cars/mouse/parameters.txt: Found
+Loading: packs/game_files/cars/flag/parameters.txt: Found
+Loading: packs/game_files/cars/tc2/parameters.txt: Found
+Loading: packs/game_files/cars/r5/parameters.txt: Found
+Loading: packs/game_files/cars/tc5/parameters.txt: Found
+Loading: packs/game_files/cars/sgt/parameters.txt: Found
+Loading: packs/game_files/cars/tc3/parameters.txt: Found
+Loading: packs/game_files/cars/adeon/parameters.txt: Found
+Loading: packs/game_files/cars/fone/parameters.txt: Found
+Loading: packs/game_files/cars/tc1/parameters.txt: Found
+Loading: packs/game_files/cars/rotor/parameters.txt: Found
+Loading: packs/game_files/cars/cougar/parameters.txt: Found
+Loading: packs/game_files/cars/sugo/parameters.txt: Found
+Loading: packs/game_files/cars/toyeca/parameters.txt: Found
+Loading: packs/game_files/cars/amw/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/panga/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/trolley/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/wincar/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/wincar2/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/wincar3/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/wincar4/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/ufo/parameters.txt: Found
+Loading: packs/rvgl_assets/cars/q/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/bigvolt/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/bossvolt/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/jg6rc/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/tc12/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/tc10/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/tc8/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/tc11/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/tc9/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/jg1jg7/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/tc7/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/jg3loco/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/jg4snw35/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/jg5purpxl/parameters.txt: Found
+Loading: packs/rvgl_dcpack/cars/jg2fulonx/parameters.txt: Found
+Loading: packs/rvgl_assets/cups/bronze.txt: Found
+Loading: packs/rvgl_assets/cups/dc/bronze.txt: Found
+Loading: packs/rvgl_assets/cups/silver.txt: Found
+Loading: packs/rvgl_assets/cups/dc/silver.txt: Found
+Loading: packs/rvgl_assets/cups/gold.txt: Found
+Loading: packs/rvgl_assets/cups/dc/gold.txt: Found
+Loading: packs/rvgl_assets/cups/platinum.txt: Found
+Loading: packs/rvgl_assets/cups/dc/platinum.txt: Found
+
+Video: Initializing...
+Video: Found 23 display modes
+Video: Opening window
+Video: Creating OpenGL context
+Video: Loading OpenGL functions
+
+===== Video Info =====
+GL Vendor: Broadcom
+GL Renderer: V3D 4.2
+GL Version: 3.1 Mesa 23.2.1-1~bpo12+rpt3
+GL_VERSION_1_1: Found
+GL_VERSION_ES_CM_1_0: Not Found
+GL_VERSION_1_2: Found
+GL_SGIS_texture_lod: Found
+GL_SGIS_generate_mipmap: Found
+GL_SGIS_texture_edge_clamp: Found
+GL_ARB_texture_mirrored_repeat: Found
+GL_IBM_texture_mirrored_repeat: Found
+GL_OES_texture_mirrored_repeat: Not Found
+GL_VERSION_1_3: Found
+GL_ARB_texture_env_combine: Found
+GL_EXT_texture_env_combine: Found
+GL_ARB_multitexture: Found
+GL_ARB_multisample: Found
+GL_EXT_multisample: Not Found
+GL_ARB_texture_compression: Found
+GL_EXT_texture_compression_s3tc: Found
+GL_VERSION_1_4: Found
+GL_EXT_fog_coord: Found
+GL_ARB_vertex_array_bgra: Found
+GL_EXT_vertex_array_bgra: Found
+GL_EXT_clip_volume_hint: Not Found
+GL_EXT_gpu_shader4: Found
+GL_VERSION_2_0: Found
+GL_ES_VERSION_2_0: Not Found
+GL_OES_element_index_uint: Not Found
+GL_VERSION_3_0: Found
+GL_ES_VERSION_3_0: Not Found
+GL_ARB_framebuffer_object: Found
+GL_EXT_framebuffer_object: Found
+GL_OES_framebuffer_object: Not Found
+GL_EXT_framebuffer_blit: Found
+GL_EXT_framebuffer_multisample: Found
+GL_ANGLE_framebuffer_blit: Not Found
+GL_ANGLE_framebuffer_multisample: Not Found
+GL_OES_rgb8_rgba8: Not Found
+GL_OES_packed_depth_stencil: Not Found
+GL_OES_depth24: Not Found
+GL_VERSION_3_1: Found
+GL_ARB_uniform_buffer_object: Found
+GL_VERSION_3_2: Not Found
+GL_ARB_sync: Found
+GL_ES_VERSION_3_1: Not Found
+GL_VERSION_4_1: Not Found
+GL_ARB_separate_shader_objects: Found
+GL_ARB_get_program_binary: Found
+GL_OES_get_program_binary: Not Found
+GL_VERSION_4_6: Not Found
+GL_ARB_texture_filter_anisotropic: Found
+GL_EXT_texture_filter_anisotropic: Found
+===== Video Info =====
+
+Video: Window format: 8 8 8 0 24 0 1 0 0
+Video: Shared Context disabled.
+Video: Uniform Buffer Objects disabled.
+Video: Separate Shader Objects disabled.
+Video: GL_MAX_RENDERBUFFER_SIZE: 4096
+Video: GL_MAX_SAMPLES: 4
+
+Loading: packs/rvgl_assets/icons/256x256/apps/rvgl.png: Found
+
+Video: Setting display mode
+
+Video: Loading shader (type: 0, flags: 0)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000000.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000000.bin: Found
+
+Video: Loading shader (type: 0, flags: 1)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000001.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000001.bin: Found
+
+Video: Loading shader (type: 0, flags: 3)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000003.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000003.bin: Found
+
+Video: Loading shader (type: 0, flags: 103)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000103.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000103.bin: Found
+
+Video: Loading shader (type: 0, flags: 6b)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000006b.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000006b.bin: Found
+
+Video: Loading shader (type: 0, flags: 16b)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000016b.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000016b.bin: Found
+
+Video: Loading shader (type: 0, flags: 101)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000101.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000101.bin: Found
+
+Video: Loading shader (type: 0, flags: 69)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000069.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000069.bin: Found
+
+Video: Loading shader (type: 0, flags: 169)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000169.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000169.bin: Found
+
+Video: Loading shader (type: 0, flags: 2)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000002.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000002.bin: Found
+
+Video: Loading shader (type: 0, flags: 102)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000102.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000102.bin: Found
+
+Video: Loading shader (type: 0, flags: 6a)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000006a.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000006a.bin: Found
+
+Video: Loading shader (type: 0, flags: 16a)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000016a.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_0000016a.bin: Found
+
+Video: Loading shader (type: 0, flags: 100)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000100.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000100.bin: Found
+
+Video: Loading shader (type: 0, flags: 68)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000068.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000068.bin: Found
+
+Video: Loading shader (type: 0, flags: 168)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000168.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/world_fs.glsl: Found
+Loading: cache/shaders/00000000_00000168.bin: Found
+
+Video: Loading shader (type: 1, flags: 0)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000000.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000000.bin: Found
+
+Video: Loading shader (type: 1, flags: 1)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000001.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000001.bin: Found
+
+Video: Loading shader (type: 1, flags: 3)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000003.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000003.bin: Found
+
+Video: Loading shader (type: 1, flags: 103)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000103.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000103.bin: Found
+
+Video: Loading shader (type: 1, flags: 7b)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000007b.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000007b.bin: Found
+
+Video: Loading shader (type: 1, flags: 17b)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000017b.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000017b.bin: Found
+
+Video: Loading shader (type: 1, flags: 101)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000101.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000101.bin: Found
+
+Video: Loading shader (type: 1, flags: 79)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000079.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000079.bin: Found
+
+Video: Loading shader (type: 1, flags: 179)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000179.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000179.bin: Found
+
+Video: Loading shader (type: 1, flags: 2)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000002.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000002.bin: Found
+
+Video: Loading shader (type: 1, flags: 102)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000102.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000102.bin: Found
+
+Video: Loading shader (type: 1, flags: 7a)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000007a.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000007a.bin: Found
+
+Video: Loading shader (type: 1, flags: 17a)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000017a.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000017a.bin: Found
+
+Video: Loading shader (type: 1, flags: 100)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000100.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000100.bin: Found
+
+Video: Loading shader (type: 1, flags: 78)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000078.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000078.bin: Found
+
+Video: Loading shader (type: 1, flags: 178)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000178.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000178.bin: Found
+
+Video: Loading shader (type: 1, flags: 303)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000303.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000303.bin: Found
+
+Video: Loading shader (type: 1, flags: 27b)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000027b.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000027b.bin: Found
+
+Video: Loading shader (type: 1, flags: 37b)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000037b.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_0000037b.bin: Found
+
+Video: Loading shader (type: 1, flags: a3)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000000a3.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000000a3.bin: Found
+
+Video: Loading shader (type: 1, flags: 100bb)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000100bb.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000100bb.bin: Found
+
+Video: Loading shader (type: 1, flags: 201a1)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000201a1.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000201a1.bin: Found
+
+Video: Loading shader (type: 1, flags: 301a1)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000301a1.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000301a1.bin: Found
+
+Video: Loading shader (type: 1, flags: 401a1)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000401a1.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000401a1.bin: Found
+
+Video: Loading shader (type: 1, flags: 5)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000005.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000005.bin: Found
+
+Video: Loading shader (type: 1, flags: 25)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000025.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000025.bin: Found
+
+Video: Loading shader (type: 1, flags: 125)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000125.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000125.bin: Found
+
+Video: Loading shader (type: 1, flags: a5)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000000a5.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000000a5.bin: Found
+
+Video: Loading shader (type: 1, flags: 301a5)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000301a5.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_000301a5.bin: Found
+
+Video: Loading shader (type: 1, flags: 124)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000124.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/lights_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/effects_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/model_fs.glsl: Found
+Loading: cache/shaders/00000001_00000124.bin: Found
+
+Video: Loading shader (type: 2, flags: 0)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_fs.glsl: Found
+Loading: cache/shaders/00000002_00000000.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_fs.glsl: Found
+Loading: cache/shaders/00000002_00000000.bin: Found
+
+Video: Loading shader (type: 2, flags: 100)
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_fs.glsl: Found
+Loading: cache/shaders/00000002_00000100.bin: Not Found
+Loading: packs/rvgl_assets/shaders/common_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_vs.glsl: Found
+Loading: packs/rvgl_assets/shaders/common_fs.glsl: Found
+Loading: packs/rvgl_assets/shaders/screen_fs.glsl: Found
+Loading: cache/shaders/00000002_00000100.bin: Found
+
+Video: Dimensions (Window: 1920x1080, Render: 1920x1080)
+Video: Done
+
+Input: Initializing...
+Detected SDL2 version: 2.26.5
+Loading: packs/rvgl_assets/gamecontrollerdb.txt: Found
+Input: 269 GameController mappings added
+Loading: profiles/gamecontrollerdb.txt: Not Found
+Input: 0 GameController mappings added
+Input: Found controller at slot 0: Xbox One Controller (GUID: 050082795e040000e002000003090000)
+       Game Controller Mapping: 050082795e040000e002000003090000,Xbox One Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b8,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Linux,
+Input: Done
+
+Audio: Initializing...
+AL Vendor: OpenAL Community
+AL Renderer: OpenAL Soft
+AL Version: 1.1 ALSOFT 1.19.1
+AL Frequency: 48000 Hz
+Audio: Done
+
+Loading: packs/io_tracks_circuit/levels/vedano/vedano.inf: Found
+Loading: packs/game_files/levels/vedano/reversed/vedano.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/clace/clace.inf: Found
+Loading: packs/game_files/levels/clace/reversed/clace.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/tvgp_bitume/tvgp_bitume.inf: Found
+Loading: packs/game_files/levels/tvgp_bitume/reversed/tvgp_bitume.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/dankernkart/dankernkart.inf: Found
+Loading: packs/game_files/levels/dankernkart/reversed/dankernkart.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/bellezza2/bellezza2.inf: Found
+Loading: packs/game_files/levels/bellezza2/reversed/bellezza2.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/vuds/vuds.inf: Found
+Loading: packs/game_files/levels/vuds/reversed/vuds.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/eggland/eggland.inf: Found
+Loading: packs/game_files/levels/eggland/reversed/eggland.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/ssr5c/ssr5c.inf: Found
+Loading: packs/game_files/levels/ssr5c/reversed/ssr5c.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/gp1/gp1.inf: Found
+Loading: packs/game_files/levels/gp1/reversed/gp1.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/richardson/richardson.inf: Found
+Loading: packs/game_files/levels/richardson/reversed/richardson.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/fat-track/fat-track.inf: Found
+Loading: packs/game_files/levels/fat-track/reversed/fat-track.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/touge_mountain/touge_mountain.inf: Found
+Loading: packs/io_tracks_circuit/levels/touge_mountain/reversed/touge_mountain.inf: Found
+Loading: packs/io_tracks_circuit/levels/ssroute/ssroute.inf: Found
+Loading: packs/game_files/levels/ssroute/reversed/ssroute.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/lstamac_kkc/lstamac_kkc.inf: Found
+Loading: packs/game_files/levels/lstamac_kkc/reversed/lstamac_kkc.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/emeraldpastures/emeraldpastures.inf: Found
+Loading: packs/game_files/levels/emeraldpastures/reversed/emeraldpastures.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/motorsportsland/motorsportsland.inf: Found
+Loading: packs/game_files/levels/motorsportsland/reversed/motorsportsland.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/smolg/smolg.inf: Found
+Loading: packs/game_files/levels/smolg/reversed/smolg.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/smoli/smoli.inf: Found
+Loading: packs/game_files/levels/smoli/reversed/smoli.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/superspeedway/superspeedway.inf: Found
+Loading: packs/game_files/levels/superspeedway/reversed/superspeedway.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/heuiwabe/heuiwabe.inf: Found
+Loading: packs/game_files/levels/heuiwabe/reversed/heuiwabe.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/nightcity/nightcity.inf: Found
+Loading: packs/game_files/levels/nightcity/reversed/nightcity.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/keitune/keitune.inf: Found
+Loading: packs/game_files/levels/keitune/reversed/keitune.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/sidesanctd/sidesanctd.inf: Found
+Loading: packs/game_files/levels/sidesanctd/reversed/sidesanctd.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/sutter/sutter.inf: Found
+Loading: packs/game_files/levels/sutter/reversed/sutter.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/stagnaro/stagnaro.inf: Found
+Loading: packs/game_files/levels/stagnaro/reversed/stagnaro.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/sshighway/sshighway.inf: Found
+Loading: packs/game_files/levels/sshighway/reversed/sshighway.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/lstamab_kkc/lstamab_kkc.inf: Found
+Loading: packs/game_files/levels/lstamab_kkc/reversed/lstamab_kkc.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/lskartspacei/lskartspacei.inf: Found
+Loading: packs/game_files/levels/lskartspacei/reversed/lskartspacei.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/melville/melville.inf: Found
+Loading: packs/game_files/levels/melville/reversed/melville.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/foxglen/foxglen.inf: Found
+Loading: packs/game_files/levels/foxglen/reversed/foxglen.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/hockenheim/hockenheim.inf: Found
+Loading: packs/game_files/levels/hockenheim/reversed/hockenheim.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/sircuit2/sircuit2.inf: Found
+Loading: packs/game_files/levels/sircuit2/reversed/sircuit2.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/amcott/amcott.inf: Found
+Loading: packs/game_files/levels/amcott/reversed/amcott.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/touge_mtn_s1/touge_mtn_s1.inf: Found
+Loading: packs/io_tracks_circuit/levels/touge_mtn_s1/reversed/touge_mtn_s1.inf: Found
+Loading: packs/io_tracks_circuit/levels/touge_mtn_s2/touge_mtn_s2.inf: Found
+Loading: packs/io_tracks_circuit/levels/touge_mtn_s2/reversed/touge_mtn_s2.inf: Found
+Loading: packs/io_tracks_circuit/levels/greenhaze/greenhaze.inf: Found
+Loading: packs/game_files/levels/greenhaze/reversed/greenhaze.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/sidesanctb/sidesanctb.inf: Found
+Loading: packs/game_files/levels/sidesanctb/reversed/sidesanctb.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/amcodrift/amcodrift.inf: Found
+Loading: packs/game_files/levels/amcodrift/reversed/amcodrift.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/sidesancta/sidesancta.inf: Found
+Loading: packs/game_files/levels/sidesancta/reversed/sidesancta.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/autumnringmini/autumnringmini.inf: Found
+Loading: packs/game_files/levels/autumnringmini/reversed/autumnringmini.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/blakec2/blakec2.inf: Found
+Loading: packs/game_files/levels/blakec2/reversed/blakec2.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/sidesanctc/sidesanctc.inf: Found
+Loading: packs/game_files/levels/sidesanctc/reversed/sidesanctc.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/darkvale/darkvale.inf: Found
+Loading: packs/game_files/levels/darkvale/reversed/darkvale.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/gpx/gpx.inf: Found
+Loading: packs/game_files/levels/gpx/reversed/gpx.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/wh_showdown/wh_showdown.inf: Found
+Loading: packs/game_files/levels/wh_showdown/reversed/wh_showdown.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/touged/touged.inf: Found
+Loading: packs/game_files/levels/touged/reversed/touged.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/jiweway/jiweway.inf: Found
+Loading: packs/io_tracks_circuit/levels/jiweway/reversed/jiweway.inf: Found
+Loading: packs/io_tracks_circuit/levels/room12x16/room12x16.inf: Found
+Loading: packs/game_files/levels/room12x16/reversed/room12x16.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/morvangp/morvangp.inf: Found
+Loading: packs/game_files/levels/morvangp/reversed/morvangp.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/lsbiano8/lsbiano8.inf: Found
+Loading: packs/game_files/levels/lsbiano8/reversed/lsbiano8.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/daybreak/daybreak.inf: Found
+Loading: packs/game_files/levels/daybreak/reversed/daybreak.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/tc6/tc6.inf: Found
+Loading: packs/game_files/levels/tc6/reversed/tc6.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/autumnring/autumnring.inf: Found
+Loading: packs/game_files/levels/autumnring/reversed/autumnring.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/smolh/smolh.inf: Found
+Loading: packs/game_files/levels/smolh/reversed/smolh.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/redrock/redrock.inf: Found
+Loading: packs/io_tracks_circuit/levels/redrock/reversed/redrock.inf: Found
+Loading: packs/io_tracks_circuit/levels/goldbridge/goldbridge.inf: Found
+Loading: packs/game_files/levels/goldbridge/reversed/goldbridge.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/amco_bitume/amco_bitume.inf: Found
+Loading: packs/game_files/levels/amco_bitume/reversed/amco_bitume.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/re-volectrix/re-volectrix.inf: Found
+Loading: packs/game_files/levels/re-volectrix/reversed/re-volectrix.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/elkhart/elkhart.inf: Found
+Loading: packs/game_files/levels/elkhart/reversed/elkhart.inf: Not Found
+Loading: packs/io_tracks_circuit/levels/ssr5/ssr5.inf: Found
+Loading: packs/game_files/levels/ssr5/reversed/ssr5.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/belgium/belgium.inf: Found
+Loading: packs/game_files/levels/belgium/reversed/belgium.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/miamiman/miamiman.inf: Found
+Loading: packs/game_files/levels/miamiman/reversed/miamiman.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/pod_skyrace/pod_skyrace.inf: Found
+Loading: packs/io_tracks_bonus/levels/pod_skyrace/reversed/pod_skyrace.inf: Found
+Loading: packs/io_tracks_bonus/levels/sd1/sd1.inf: Found
+Loading: packs/game_files/levels/sd1/reversed/sd1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/rbc3/rbc3.inf: Found
+Loading: packs/io_tracks_bonus/levels/rbc3/reversed/rbc3.inf: Found
+Loading: packs/io_tracks_bonus/levels/meltdown/meltdown.inf: Found
+Loading: packs/game_files/levels/meltdown/reversed/meltdown.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt17airport2/fdt17airport2.inf: Found
+Loading: packs/game_files/levels/fdt17airport2/reversed/fdt17airport2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/re-ville/re-ville.inf: Found
+Loading: packs/game_files/levels/re-ville/reversed/re-ville.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/grimm/grimm.inf: Found
+Loading: packs/game_files/levels/grimm/reversed/grimm.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/pr_caves/pr_caves.inf: Found
+Loading: packs/game_files/levels/pr_caves/reversed/pr_caves.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt10halloween/fdt10halloween.inf: Found
+Loading: packs/game_files/levels/fdt10halloween/reversed/fdt10halloween.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/mate2/mate2.inf: Found
+Loading: packs/game_files/levels/mate2/reversed/mate2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt14skylands1/fdt14skylands1.inf: Found
+Loading: packs/game_files/levels/fdt14skylands1/reversed/fdt14skylands1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/pr_harbour/pr_harbour.inf: Found
+Loading: packs/game_files/levels/pr_harbour/reversed/pr_harbour.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/christmas_globe/christmas_globe.inf: Found
+Loading: packs/game_files/levels/christmas_globe/reversed/christmas_globe.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/wipeout/wipeout.inf: Found
+Loading: packs/game_files/levels/wipeout/reversed/wipeout.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/bloodroof/bloodroof.inf: Found
+Loading: packs/game_files/levels/bloodroof/reversed/bloodroof.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt2xtoy/fdt2xtoy.inf: Found
+Loading: packs/game_files/levels/fdt2xtoy/reversed/fdt2xtoy.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/freestoyle2/freestoyle2.inf: Found
+Loading: packs/game_files/levels/freestoyle2/reversed/freestoyle2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/harborlights/harborlights.inf: Found
+Loading: packs/game_files/levels/harborlights/reversed/harborlights.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/waterfall/waterfall.inf: Found
+Loading: packs/game_files/levels/waterfall/reversed/waterfall.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/subway/subway.inf: Found
+Loading: packs/game_files/levels/subway/reversed/subway.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/tempburndark/tempburndark.inf: Found
+Loading: packs/game_files/levels/tempburndark/reversed/tempburndark.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/moltencavern/moltencavern.inf: Found
+Loading: packs/game_files/levels/moltencavern/reversed/moltencavern.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/morso/morso.inf: Found
+Loading: packs/game_files/levels/morso/reversed/morso.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/msi/msi.inf: Found
+Loading: packs/game_files/levels/msi/reversed/msi.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/cake/cake.inf: Found
+Loading: packs/game_files/levels/cake/reversed/cake.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt15skylands2/fdt15skylands2.inf: Found
+Loading: packs/game_files/levels/fdt15skylands2/reversed/fdt15skylands2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/home1/home1.inf: Found
+Loading: packs/game_files/levels/home1/reversed/home1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/cliffside/cliffside.inf: Found
+Loading: packs/game_files/levels/cliffside/reversed/cliffside.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/synth/synth.inf: Found
+Loading: packs/game_files/levels/synth/reversed/synth.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt20junk2/fdt20junk2.inf: Found
+Loading: packs/game_files/levels/fdt20junk2/reversed/fdt20junk2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/ye_oldetown/ye_oldetown.inf: Found
+Loading: packs/game_files/levels/ye_oldetown/reversed/ye_oldetown.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/christmastest/christmastest.inf: Found
+Loading: packs/game_files/levels/christmastest/reversed/christmastest.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/aqueduct/aqueduct.inf: Found
+Loading: packs/game_files/levels/aqueduct/reversed/aqueduct.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fukushima/fukushima.inf: Found
+Loading: packs/game_files/levels/fukushima/reversed/fukushima.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/floating world/floating world.inf: Found
+Loading: packs/game_files/levels/floating world/reversed/floating world.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/stones/stones.inf: Found
+Loading: packs/game_files/levels/stones/reversed/stones.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/industry/industry.inf: Found
+Loading: packs/game_files/levels/industry/reversed/industry.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/zero2/zero2.inf: Found
+Loading: packs/game_files/levels/zero2/reversed/zero2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/wladyslawowo/wladyslawowo.inf: Found
+Loading: packs/game_files/levels/wladyslawowo/reversed/wladyslawowo.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/illusion/illusion.inf: Found
+Loading: packs/game_files/levels/illusion/reversed/illusion.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/snowy_river/snowy_river.inf: Found
+Loading: packs/game_files/levels/snowy_river/reversed/snowy_river.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/bmans2/bmans2.inf: Found
+Loading: packs/game_files/levels/bmans2/reversed/bmans2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt5xnhood/fdt5xnhood.inf: Found
+Loading: packs/game_files/levels/fdt5xnhood/reversed/fdt5xnhood.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/wildland/wildland.inf: Found
+Loading: packs/game_files/levels/wildland/reversed/wildland.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt11snow1/fdt11snow1.inf: Found
+Loading: packs/game_files/levels/fdt11snow1/reversed/fdt11snow1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/skyroad/skyroad.inf: Found
+Loading: packs/game_files/levels/skyroad/reversed/skyroad.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/groundnsmash2/groundnsmash2.inf: Found
+Loading: packs/game_files/levels/groundnsmash2/reversed/groundnsmash2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/catacombs/catacombs.inf: Found
+Loading: packs/game_files/levels/catacombs/reversed/catacombs.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/thug2 dj/thug2 dj.inf: Found
+Loading: packs/game_files/levels/thug2 dj/reversed/thug2 dj.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/pmt_bridge/pmt_bridge.inf: Found
+Loading: packs/io_tracks_bonus/levels/pmt_bridge/reversed/pmt_bridge.inf: Found
+Loading: packs/io_tracks_bonus/levels/breach2/breach2.inf: Found
+Loading: packs/game_files/levels/breach2/reversed/breach2.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/playoutside/playoutside.inf: Found
+Loading: packs/game_files/levels/playoutside/reversed/playoutside.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/breach3000/breach3000.inf: Found
+Loading: packs/game_files/levels/breach3000/reversed/breach3000.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/smwint/smwint.inf: Found
+Loading: packs/game_files/levels/smwint/reversed/smwint.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/cumulclouds/cumulclouds.inf: Found
+Loading: packs/io_tracks_bonus/levels/cumulclouds/reversed/cumulclouds.inf: Found
+Loading: packs/io_tracks_bonus/levels/wipeout2097/wipeout2097.inf: Found
+Loading: packs/game_files/levels/wipeout2097/reversed/wipeout2097.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/mhem/mhem.inf: Found
+Loading: packs/game_files/levels/mhem/reversed/mhem.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/mkds_af/mkds_af.inf: Found
+Loading: packs/game_files/levels/mkds_af/reversed/mkds_af.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/brokensun/brokensun.inf: Found
+Loading: packs/game_files/levels/brokensun/reversed/brokensun.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/pod_roc/pod_roc.inf: Found
+Loading: packs/io_tracks_bonus/levels/pod_roc/reversed/pod_roc.inf: Found
+Loading: packs/io_tracks_bonus/levels/felling yard/felling yard.inf: Found
+Loading: packs/game_files/levels/felling yard/reversed/felling yard.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/pmt_box/pmt_box.inf: Found
+Loading: packs/io_tracks_bonus/levels/pmt_box/reversed/pmt_box.inf: Found
+Loading: packs/io_tracks_bonus/levels/ccourt/ccourt.inf: Found
+Loading: packs/game_files/levels/ccourt/reversed/ccourt.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/tuscany/tuscany.inf: Found
+Loading: packs/game_files/levels/tuscany/reversed/tuscany.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/portlimano1/portlimano1.inf: Found
+Loading: packs/game_files/levels/portlimano1/reversed/portlimano1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/swan_street/swan_street.inf: Found
+Loading: packs/game_files/levels/swan_street/reversed/swan_street.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/overground/overground.inf: Found
+Loading: packs/game_files/levels/overground/reversed/overground.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/kastle/kastle.inf: Found
+Loading: packs/game_files/levels/kastle/reversed/kastle.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/mex1/mex1.inf: Found
+Loading: packs/game_files/levels/mex1/reversed/mex1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/roofb/roofb.inf: Found
+Loading: packs/game_files/levels/roofb/reversed/roofb.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/shakespeare/shakespeare.inf: Found
+Loading: packs/game_files/levels/shakespeare/reversed/shakespeare.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/marketmayhem/marketmayhem.inf: Found
+Loading: packs/game_files/levels/marketmayhem/reversed/marketmayhem.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/fdt3stad1/fdt3stad1.inf: Found
+Loading: packs/game_files/levels/fdt3stad1/reversed/fdt3stad1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/tetrisfest/tetrisfest.inf: Found
+Loading: packs/game_files/levels/tetrisfest/reversed/tetrisfest.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/hallowseve/hallowseve.inf: Found
+Loading: packs/game_files/levels/hallowseve/reversed/hallowseve.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/papertown1/papertown1.inf: Found
+Loading: packs/game_files/levels/papertown1/reversed/papertown1.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/avalon/avalon.inf: Found
+Loading: packs/game_files/levels/avalon/reversed/avalon.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/ctr-pmarsh/ctr-pmarsh.inf: Found
+Loading: packs/game_files/levels/ctr-pmarsh/reversed/ctr-pmarsh.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/donut3/donut3.inf: Found
+Loading: packs/game_files/levels/donut3/reversed/donut3.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/chessnight/chessnight.inf: Found
+Loading: packs/game_files/levels/chessnight/reversed/chessnight.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/shoppe/shoppe.inf: Found
+Loading: packs/game_files/levels/shoppe/reversed/shoppe.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/bmfarm/bmfarm.inf: Found
+Loading: packs/io_tracks_bonus/levels/bmfarm/reversed/bmfarm.inf: Found
+Loading: packs/io_tracks_bonus/levels/endgame/endgame.inf: Found
+Loading: packs/game_files/levels/endgame/reversed/endgame.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/highrollers/highrollers.inf: Found
+Loading: packs/io_tracks_bonus/levels/highrollers/reversed/highrollers.inf: Found
+Loading: packs/io_tracks_bonus/levels/bmans/bmans.inf: Found
+Loading: packs/game_files/levels/bmans/reversed/bmans.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/terminus/terminus.inf: Found
+Loading: packs/game_files/levels/terminus/reversed/terminus.inf: Not Found
+Loading: packs/io_tracks_bonus/levels/pmt_highway/pmt_highway.inf: Found
+Loading: packs/io_tracks_bonus/levels/pmt_highway/reversed/pmt_highway.inf: Found
+Loading: packs/io_tracks/levels/casinorv/casinorv.inf: Found
+Loading: packs/game_files/levels/casinorv/reversed/casinorv.inf: Not Found
+Loading: packs/io_tracks/levels/hospital1/hospital1.inf: Found
+Loading: packs/game_files/levels/hospital1/reversed/hospital1.inf: Not Found
+Loading: packs/io_tracks/levels/toymayhem/toymayhem.inf: Found
+Loading: packs/game_files/levels/toymayhem/reversed/toymayhem.inf: Not Found
+Loading: packs/io_tracks/levels/district/district.inf: Found
+Loading: packs/game_files/levels/district/reversed/district.inf: Not Found
+Loading: packs/io_tracks/levels/toysoldierz/toysoldierz.inf: Found
+Loading: packs/io_tracks/levels/toysoldierz/reversed/toysoldierz.inf: Found
+Loading: packs/io_tracks/levels/hms_redux/hms_redux.inf: Found
+Loading: packs/game_files/levels/hms_redux/reversed/hms_redux.inf: Not Found
+Loading: packs/io_tracks/levels/rvt/rvt.inf: Found
+Loading: packs/game_files/levels/rvt/reversed/rvt.inf: Not Found
+Loading: packs/io_tracks/levels/spavolt1/spavolt1.inf: Found
+Loading: packs/game_files/levels/spavolt1/reversed/spavolt1.inf: Not Found
+Loading: packs/io_tracks/levels/dtown2/dtown2.inf: Found
+Loading: packs/game_files/levels/dtown2/reversed/dtown2.inf: Not Found
+Loading: packs/io_tracks/levels/ragarden/ragarden.inf: Found
+Loading: packs/io_tracks/levels/ragarden/reversed/ragarden.inf: Found
+Loading: packs/io_tracks/levels/schools/schools.inf: Found
+Loading: packs/io_tracks/levels/schools/reversed/schools.inf: Found
+Loading: packs/io_tracks/levels/sakura/sakura.inf: Found
+Loading: packs/game_files/levels/sakura/reversed/sakura.inf: Not Found
+Loading: packs/io_tracks/levels/fdt21castle1/fdt21castle1.inf: Found
+Loading: packs/game_files/levels/fdt21castle1/reversed/fdt21castle1.inf: Not Found
+Loading: packs/io_tracks/levels/skatoysred/skatoysred.inf: Found
+Loading: packs/io_tracks/levels/skatoysred/reversed/skatoysred.inf: Found
+Loading: packs/io_tracks/levels/petrol/petrol.inf: Found
+Loading: packs/io_tracks/levels/petrol/reversed/petrol.inf: Found
+Loading: packs/io_tracks/levels/spaceship2020/spaceship2020.inf: Found
+Loading: packs/game_files/levels/spaceship2020/reversed/spaceship2020.inf: Not Found
+Loading: packs/io_tracks/levels/fair2/fair2.inf: Found
+Loading: packs/game_files/levels/fair2/reversed/fair2.inf: Not Found
+Loading: packs/io_tracks/levels/ranch/ranch.inf: Found
+Loading: packs/io_tracks/levels/ranch/reversed/ranch.inf: Found
+Loading: packs/io_tracks/levels/fdt24arcade2/fdt24arcade2.inf: Found
+Loading: packs/game_files/levels/fdt24arcade2/reversed/fdt24arcade2.inf: Not Found
+Loading: packs/io_tracks/levels/urbanx/urbanx.inf: Found
+Loading: packs/game_files/levels/urbanx/reversed/urbanx.inf: Not Found
+Loading: packs/io_tracks/levels/portlimano2/portlimano2.inf: Found
+Loading: packs/game_files/levels/portlimano2/reversed/portlimano2.inf: Not Found
+Loading: packs/io_tracks/levels/the_bunker/the_bunker.inf: Found
+Loading: packs/game_files/levels/the_bunker/reversed/the_bunker.inf: Not Found
+Loading: packs/io_tracks/levels/fdt4stad2/fdt4stad2.inf: Found
+Loading: packs/game_files/levels/fdt4stad2/reversed/fdt4stad2.inf: Not Found
+Loading: packs/io_tracks/levels/roof1/roof1.inf: Found
+Loading: packs/game_files/levels/roof1/reversed/roof1.inf: Not Found
+Loading: packs/io_tracks/levels/ctr-hazard/ctr-hazard.inf: Found
+Loading: packs/game_files/levels/ctr-hazard/reversed/ctr-hazard.inf: Not Found
+Loading: packs/io_tracks/levels/muse3/muse3.inf: Found
+Loading: packs/game_files/levels/muse3/reversed/muse3.inf: Not Found
+Loading: packs/io_tracks/levels/helios/helios.inf: Found
+Loading: packs/game_files/levels/helios/reversed/helios.inf: Not Found
+Loading: packs/io_tracks/levels/fdt12mtvf2/fdt12mtvf2.inf: Found
+Loading: packs/game_files/levels/fdt12mtvf2/reversed/fdt12mtvf2.inf: Not Found
+Loading: packs/io_tracks/levels/schoolslite/schoolslite.inf: Found
+Loading: packs/io_tracks/levels/schoolslite/reversed/schoolslite.inf: Found
+Loading: packs/io_tracks/levels/fdt16airport1/fdt16airport1.inf: Found
+Loading: packs/game_files/levels/fdt16airport1/reversed/fdt16airport1.inf: Not Found
+Loading: packs/io_tracks/levels/fdt23arcade1/fdt23arcade1.inf: Found
+Loading: packs/game_files/levels/fdt23arcade1/reversed/fdt23arcade1.inf: Not Found
+Loading: packs/io_tracks/levels/images_redux/images_redux.inf: Found
+Loading: packs/game_files/levels/images_redux/reversed/images_redux.inf: Not Found
+Loading: packs/io_tracks/levels/aquavoltredux/aquavoltredux.inf: Found
+Loading: packs/game_files/levels/aquavoltredux/reversed/aquavoltredux.inf: Not Found
+Loading: packs/io_tracks/levels/stadvolt/stadvolt.inf: Found
+Loading: packs/game_files/levels/stadvolt/reversed/stadvolt.inf: Not Found
+Loading: packs/io_tracks/levels/toy3-2021/toy3-2021.inf: Found
+Loading: packs/game_files/levels/toy3-2021/reversed/toy3-2021.inf: Not Found
+Loading: packs/io_tracks/levels/kadishs/kadishs.inf: Found
+Loading: packs/game_files/levels/kadishs/reversed/kadishs.inf: Not Found
+Loading: packs/io_tracks/levels/skires/skires.inf: Found
+Loading: packs/game_files/levels/skires/reversed/skires.inf: Not Found
+Loading: packs/io_tracks/levels/hcampcal/hcampcal.inf: Found
+Loading: packs/game_files/levels/hcampcal/reversed/hcampcal.inf: Not Found
+Loading: packs/io_tracks/levels/quake/quake.inf: Found
+Loading: packs/io_tracks/levels/quake/reversed/quake.inf: Found
+Loading: packs/io_tracks/levels/fdt9xgarden/fdt9xgarden.inf: Found
+Loading: packs/game_files/levels/fdt9xgarden/reversed/fdt9xgarden.inf: Not Found
+Loading: packs/io_tracks/levels/fair1/fair1.inf: Found
+Loading: packs/game_files/levels/fair1/reversed/fair1.inf: Not Found
+Loading: packs/io_tracks/levels/library/library.inf: Found
+Loading: packs/game_files/levels/library/reversed/library.inf: Not Found
+Loading: packs/io_tracks/levels/fdt8mtvf/fdt8mtvf.inf: Found
+Loading: packs/game_files/levels/fdt8mtvf/reversed/fdt8mtvf.inf: Not Found
+Loading: packs/io_tracks/levels/medieval-redux/medieval-redux.inf: Found
+Loading: packs/game_files/levels/medieval-redux/reversed/medieval-redux.inf: Not Found
+Loading: packs/io_tracks/levels/fdt13xmuse/fdt13xmuse.inf: Found
+Loading: packs/game_files/levels/fdt13xmuse/reversed/fdt13xmuse.inf: Not Found
+Loading: packs/io_tracks/levels/home2/home2.inf: Found
+Loading: packs/game_files/levels/home2/reversed/home2.inf: Not Found
+Loading: packs/io_tracks/levels/santorini/santorini.inf: Found
+Loading: packs/game_files/levels/santorini/reversed/santorini.inf: Not Found
+Loading: packs/io_tracks/levels/winterwest/winterwest.inf: Found
+Loading: packs/io_tracks/levels/winterwest/reversed/winterwest.inf: Found
+Loading: packs/io_tracks/levels/subway2/subway2.inf: Found
+Loading: packs/game_files/levels/subway2/reversed/subway2.inf: Not Found
+Loading: packs/io_tracks/levels/metrovolt/metrovolt.inf: Found
+Loading: packs/game_files/levels/metrovolt/reversed/metrovolt.inf: Not Found
+Loading: packs/io_tracks/levels/dtown1/dtown1.inf: Found
+Loading: packs/game_files/levels/dtown1/reversed/dtown1.inf: Not Found
+Loading: packs/io_tracks/levels/portlimanoex/portlimanoex.inf: Found
+Loading: packs/game_files/levels/portlimanoex/reversed/portlimanoex.inf: Not Found
+Loading: packs/io_tracks/levels/urban1/urban1.inf: Found
+Loading: packs/game_files/levels/urban1/reversed/urban1.inf: Not Found
+Loading: packs/io_tracks/levels/hospital2/hospital2.inf: Found
+Loading: packs/game_files/levels/hospital2/reversed/hospital2.inf: Not Found
+Loading: packs/io_tracks/levels/ghetto/ghetto.inf: Found
+Loading: packs/game_files/levels/ghetto/reversed/ghetto.inf: Not Found
+Loading: packs/io_tracks/levels/route-77/route-77.inf: Found
+Loading: packs/game_files/levels/route-77/reversed/route-77.inf: Not Found
+Loading: packs/io_tracks/levels/dome3/dome3.inf: Found
+Loading: packs/game_files/levels/dome3/reversed/dome3.inf: Not Found
+Loading: packs/io_tracks/levels/venice/venice.inf: Found
+Loading: packs/io_tracks/levels/venice/reversed/venice.inf: Found
+Loading: packs/io_tracks/levels/roofchaseredux/roofchaseredux.inf: Found
+Loading: packs/io_tracks/levels/roofchaseredux/reversed/roofchaseredux.inf: Found
+Loading: packs/io_tracks/levels/lunar/lunar.inf: Found
+Loading: packs/game_files/levels/lunar/reversed/lunar.inf: Not Found
+Loading: packs/io_tracks/levels/jailhouse/jailhouse.inf: Found
+Loading: packs/io_tracks/levels/jailhouse/reversed/jailhouse.inf: Found
+Loading: packs/io_tracks/levels/snowboardx/snowboardx.inf: Found
+Loading: packs/game_files/levels/snowboardx/reversed/snowboardx.inf: Not Found
+Loading: packs/io_tracks/levels/whiterose/whiterose.inf: Found
+Loading: packs/game_files/levels/whiterose/reversed/whiterose.inf: Not Found
+Loading: packs/io_tracks/levels/fdt22castle2/fdt22castle2.inf: Found
+Loading: packs/game_files/levels/fdt22castle2/reversed/fdt22castle2.inf: Not Found
+Loading: packs/io_tracks/levels/smashride/smashride.inf: Found
+Loading: packs/game_files/levels/smashride/reversed/smashride.inf: Not Found
+Loading: packs/io_tracks/levels/spavolt2/spavolt2.inf: Found
+Loading: packs/game_files/levels/spavolt2/reversed/spavolt2.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_planet/lms_planet.inf: Found
+Loading: packs/game_files/levels/lms_planet/reversed/lms_planet.inf: Not Found
+Loading: packs/io_lmstag/levels/asbafield/asbafield.inf: Found
+Loading: packs/game_files/levels/asbafield/reversed/asbafield.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_tosh/lms_tosh.inf: Found
+Loading: packs/game_files/levels/lms_tosh/reversed/lms_tosh.inf: Not Found
+Loading: packs/io_lmstag/levels/sdirtyrpd_bat/sdirtyrpd_bat.inf: Found
+Loading: packs/game_files/levels/sdirtyrpd_bat/reversed/sdirtyrpd_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/battlestunts/battlestunts.inf: Found
+Loading: packs/game_files/levels/battlestunts/reversed/battlestunts.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_battle/lms_battle.inf: Found
+Loading: packs/game_files/levels/lms_battle/reversed/lms_battle.inf: Not Found
+Loading: packs/io_lmstag/levels/roof_bat/roof_bat.inf: Found
+Loading: packs/game_files/levels/roof_bat/reversed/roof_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_valley/lms_valley.inf: Found
+Loading: packs/game_files/levels/lms_valley/reversed/lms_valley.inf: Not Found
+Loading: packs/io_lmstag/levels/m121arena/m121arena.inf: Found
+Loading: packs/game_files/levels/m121arena/reversed/m121arena.inf: Not Found
+Loading: packs/io_lmstag/levels/globe_battle/globe_battle.inf: Found
+Loading: packs/game_files/levels/globe_battle/reversed/globe_battle.inf: Not Found
+Loading: packs/io_lmstag/levels/metro_battle/metro_battle.inf: Found
+Loading: packs/game_files/levels/metro_battle/reversed/metro_battle.inf: Not Found
+Loading: packs/io_lmstag/levels/daytaga/daytaga.inf: Found
+Loading: packs/game_files/levels/daytaga/reversed/daytaga.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_soul/lms_soul.inf: Found
+Loading: packs/game_files/levels/lms_soul/reversed/lms_soul.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_simplroad/lms_simplroad.inf: Found
+Loading: packs/game_files/levels/lms_simplroad/reversed/lms_simplroad.inf: Not Found
+Loading: packs/io_lmstag/levels/ut_battle/ut_battle.inf: Found
+Loading: packs/game_files/levels/ut_battle/reversed/ut_battle.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_lerr/lms_lerr.inf: Found
+Loading: packs/game_files/levels/lms_lerr/reversed/lms_lerr.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_ouija/lms_ouija.inf: Found
+Loading: packs/game_files/levels/lms_ouija/reversed/lms_ouija.inf: Not Found
+Loading: packs/io_lmstag/levels/balljam_redux/balljam_redux.inf: Found
+Loading: packs/game_files/levels/balljam_redux/reversed/balljam_redux.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_toshmona/lms_toshmona.inf: Found
+Loading: packs/game_files/levels/lms_toshmona/reversed/lms_toshmona.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_shootst/lms_shootst.inf: Found
+Loading: packs/game_files/levels/lms_shootst/reversed/lms_shootst.inf: Not Found
+Loading: packs/io_lmstag/levels/dirt_battle/dirt_battle.inf: Found
+Loading: packs/game_files/levels/dirt_battle/reversed/dirt_battle.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_temple2/lms_temple2.inf: Found
+Loading: packs/game_files/levels/lms_temple2/reversed/lms_temple2.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_chinatown/lms_chinatown.inf: Found
+Loading: packs/game_files/levels/lms_chinatown/reversed/lms_chinatown.inf: Not Found
+Loading: packs/io_lmstag/levels/r2049dm2_bat/r2049dm2_bat.inf: Found
+Loading: packs/game_files/levels/r2049dm2_bat/reversed/r2049dm2_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_skyblock/lms_skyblock.inf: Found
+Loading: packs/game_files/levels/lms_skyblock/reversed/lms_skyblock.inf: Not Found
+Loading: packs/io_lmstag/levels/bot_batcemetery/bot_batcemetery.inf: Found
+Loading: packs/game_files/levels/bot_batcemetery/reversed/bot_batcemetery.inf: Not Found
+Loading: packs/io_lmstag/levels/r2049dm4_bat/r2049dm4_bat.inf: Found
+Loading: packs/game_files/levels/r2049dm4_bat/reversed/r2049dm4_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/r2049dm3_bat/r2049dm3_bat.inf: Found
+Loading: packs/game_files/levels/r2049dm3_bat/reversed/r2049dm3_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/r2049dm6_bat/r2049dm6_bat.inf: Found
+Loading: packs/game_files/levels/r2049dm6_bat/reversed/r2049dm6_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_roof/lms_roof.inf: Found
+Loading: packs/game_files/levels/lms_roof/reversed/lms_roof.inf: Not Found
+Loading: packs/io_lmstag/levels/toy_battle/toy_battle.inf: Found
+Loading: packs/game_files/levels/toy_battle/reversed/toy_battle.inf: Not Found
+Loading: packs/io_lmstag/levels/arc_fzp/arc_fzp.inf: Found
+Loading: packs/game_files/levels/arc_fzp/reversed/arc_fzp.inf: Not Found
+Loading: packs/io_lmstag/levels/mtvf_bat/mtvf_bat.inf: Found
+Loading: packs/game_files/levels/mtvf_bat/reversed/mtvf_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_dinoarena/lms_dinoarena.inf: Found
+Loading: packs/game_files/levels/lms_dinoarena/reversed/lms_dinoarena.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_ship1/lms_ship1.inf: Found
+Loading: packs/game_files/levels/lms_ship1/reversed/lms_ship1.inf: Not Found
+Loading: packs/io_lmstag/levels/r2049dm1_bat/r2049dm1_bat.inf: Found
+Loading: packs/game_files/levels/r2049dm1_bat/reversed/r2049dm1_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_arena/lms_arena.inf: Found
+Loading: packs/game_files/levels/lms_arena/reversed/lms_arena.inf: Not Found
+Loading: packs/io_lmstag/levels/n64blockfort/n64blockfort.inf: Found
+Loading: packs/game_files/levels/n64blockfort/reversed/n64blockfort.inf: Not Found
+Loading: packs/io_lmstag/levels/bot_bat2/bot_bat2.inf: Found
+Loading: packs/game_files/levels/bot_bat2/reversed/bot_bat2.inf: Not Found
+Loading: packs/io_lmstag/levels/skylands_bat/skylands_bat.inf: Found
+Loading: packs/game_files/levels/skylands_bat/reversed/skylands_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/ccastlebattle1/ccastlebattle1.inf: Found
+Loading: packs/game_files/levels/ccastlebattle1/reversed/ccastlebattle1.inf: Not Found
+Loading: packs/io_lmstag/levels/ccastlebattle2/ccastlebattle2.inf: Found
+Loading: packs/game_files/levels/ccastlebattle2/reversed/ccastlebattle2.inf: Not Found
+Loading: packs/io_lmstag/levels/voltball/voltball.inf: Found
+Loading: packs/game_files/levels/voltball/reversed/voltball.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_transfo/lms_transfo.inf: Found
+Loading: packs/game_files/levels/lms_transfo/reversed/lms_transfo.inf: Not Found
+Loading: packs/io_lmstag/levels/muse_lobby_bat/muse_lobby_bat.inf: Found
+Loading: packs/game_files/levels/muse_lobby_bat/reversed/muse_lobby_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/fair_bat/fair_bat.inf: Found
+Loading: packs/game_files/levels/fair_bat/reversed/fair_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_legolms4/lms_legolms4.inf: Found
+Loading: packs/game_files/levels/lms_legolms4/reversed/lms_legolms4.inf: Not Found
+Loading: packs/io_lmstag/levels/f20_battle/f20_battle.inf: Found
+Loading: packs/game_files/levels/f20_battle/reversed/f20_battle.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_bhaze/lms_bhaze.inf: Found
+Loading: packs/game_files/levels/lms_bhaze/reversed/lms_bhaze.inf: Not Found
+Loading: packs/io_lmstag/levels/wild_west_bat/wild_west_bat.inf: Found
+Loading: packs/game_files/levels/wild_west_bat/reversed/wild_west_bat.inf: Not Found
+Loading: packs/io_lmstag/levels/brbc3/brbc3.inf: Found
+Loading: packs/game_files/levels/brbc3/reversed/brbc3.inf: Not Found
+Loading: packs/io_lmstag/levels/arc_glacebatt/arc_glacebatt.inf: Found
+Loading: packs/game_files/levels/arc_glacebatt/reversed/arc_glacebatt.inf: Not Found
+Loading: packs/io_lmstag/levels/lms_ship2/lms_ship2.inf: Found
+Loading: packs/game_files/levels/lms_ship2/reversed/lms_ship2.inf: Not Found
+Loading: packs/io_lmstag/levels/brbc4/brbc4.inf: Found
+Loading: packs/game_files/levels/brbc4/reversed/brbc4.inf: Not Found
+Loading: packs/game_files/cars/misc/parameters.txt: Not Found
+Loading: packs/io_cars/cars/fd35garrow/parameters.txt: Found
+Loading: packs/io_cars/cars/albatrossgt/parameters.txt: Found
+Loading: packs/io_cars/cars/fd130rc300/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_victoria/parameters.txt: Found
+Loading: packs/io_cars/cars/armando/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib19a_cover/parameters.txt: Found
+Loading: packs/io_cars/cars/aeromaster/parameters.txt: Found
+Loading: packs/io_cars/cars/lib14b_sturm/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd_s31/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/acclaimf1/parameters.txt: Found
+Loading: packs/io_cars/cars/ciagnik/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/motley/parameters.txt: Found
+Loading: packs/io_cars/cars/xm250/parameters.txt: Found
+Loading: packs/io_cars/cars/fd90exe/parameters.txt: Found
+Loading: packs/io_cars/cars/reddlum/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_drj-61/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/bedbug2/parameters.txt: Found
+Loading: packs/io_cars/cars/fd115qsilver/parameters.txt: Found
+Loading: packs/io_cars/cars/fd51dang/parameters.txt: Found
+Loading: packs/io_cars/cars/skarlet/parameters.txt: Found
+Loading: packs/io_cars/cars/wildstar/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd26school/parameters.txt: Found
+Loading: packs/io_cars/cars/hanabira/parameters.txt: Found
+Loading: packs/io_cars/cars/fd7g3x/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/mankoxs/parameters.txt: Found
+Loading: packs/io_cars/cars/touga/parameters.txt: Found
+Loading: packs/io_cars/cars/fd95x/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd65evo/parameters.txt: Found
+Loading: packs/io_cars/cars/fd103lv/parameters.txt: Found
+Loading: packs/io_cars/cars/rebound/parameters.txt: Found
+Loading: packs/io_cars/cars/vaanbus/parameters.txt: Found
+Loading: packs/io_cars/cars/winger/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/avus2020/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_endo/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_anaconda/parameters.txt: Found
+Loading: packs/io_cars/cars/fd133ayrton/parameters.txt: Found
+Loading: packs/io_cars/cars/fd77micro/parameters.txt: Found
+Loading: packs/io_cars/cars/fd62pnr1/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/mist/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd18yi1/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_orbitron/parameters.txt: Found
+Loading: packs/io_cars/cars/bulldog/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_stinger/parameters.txt: Found
+Loading: packs/io_cars/cars/fd37uvgs/parameters.txt: Found
+Loading: packs/io_cars/cars/nesbitt/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_lag/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/twformula/parameters.txt: Found
+Loading: packs/io_cars/cars/knight/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/veloce/parameters.txt: Found
+Loading: packs/io_cars/cars/keyakizaka/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/alienbuster/parameters.txt: Found
+Loading: packs/io_cars/cars/spectron/parameters.txt: Found
+Loading: packs/io_cars/cars/megalodonxl/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/float/parameters.txt: Found
+Loading: packs/io_cars/cars/fd110pastel/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd38police/parameters.txt: Found
+Loading: packs/io_cars/cars/fd64lost/parameters.txt: Found
+Loading: packs/io_cars/cars/patriot/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd4azure/parameters.txt: Found
+Loading: packs/io_cars/cars/gekko/parameters.txt: Found
+Loading: packs/io_cars/cars/flowerpower2/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd134penta/parameters.txt: Found
+Loading: packs/io_cars/cars/triton/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_oval/parameters.txt: Found
+Loading: packs/io_cars/cars/tribute2/parameters.txt: Found
+Loading: packs/io_cars/cars/fd93voltz/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd72estata/parameters.txt: Found
+Loading: packs/io_cars/cars/bking/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_orion/parameters.txt: Found
+Loading: packs/io_cars/cars/fd143elyta/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/shagar/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd112fzgen975/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/vlexpress/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/ballista/parameters.txt: Found
+Loading: packs/io_cars/cars/rcwinglet/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd36dune/parameters.txt: Found
+Loading: packs/io_cars/cars/fd83hornet/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nimi/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/extoo20/parameters.txt: Found
+Loading: packs/io_cars/cars/kyarus/parameters.txt: Found
+Loading: packs/io_cars/cars/fan/parameters.txt: Found
+Loading: packs/io_cars/cars/fd97gold/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_ducktail/parameters.txt: Found
+Loading: packs/io_cars/cars/riptorn/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/foxy/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/frogger/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_voltrex/parameters.txt: Found
+Loading: packs/io_cars/cars/fd88gamma/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_sm1/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/minichamp2018/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/dod63/parameters.txt: Found
+Loading: packs/io_cars/cars/fd94rossa/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/phim_intellica/parameters.txt: Found
+Loading: packs/io_cars/cars/dromechamp/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fzg_bluecode/parameters.txt: Found
+Loading: packs/io_cars/cars/fd_s7/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib11b_poison/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_puma/parameters.txt: Found
+Loading: packs/io_cars/cars/alice/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_fujin/parameters.txt: Found
+Loading: packs/io_cars/cars/tx9vix/parameters.txt: Found
+Loading: packs/io_cars/cars/lib2d_tesla/parameters.txt: Found
+Loading: packs/io_cars/cars/donnietc/parameters.txt: Found
+Loading: packs/io_cars/cars/skull/parameters.txt: Found
+Loading: packs/io_cars/cars/afterimage/parameters.txt: Found
+Loading: packs/io_cars/cars/velterultron/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/rip/parameters.txt: Found
+Loading: packs/io_cars/cars/fd32eat/parameters.txt: Found
+Loading: packs/io_cars/cars/emperor/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/sc_supra/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/dukhar/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_tempest/parameters.txt: Found
+Loading: packs/io_cars/cars/fd_s12/parameters.txt: Found
+Loading: packs/io_cars/cars/nakajima/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_calcure/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/jg8mugello/parameters.txt: Found
+Loading: packs/io_cars/cars/rod/parameters.txt: Found
+Loading: packs/io_cars/cars/rv2_buggy/parameters.txt: Found
+Loading: packs/io_cars/cars/rothams/parameters.txt: Found
+Loading: packs/io_cars/cars/heritage/parameters.txt: Found
+Loading: packs/io_cars/cars/exclaimgtmk2/parameters.txt: Found
+Loading: packs/io_cars/cars/roadstar/parameters.txt: Found
+Loading: packs/io_cars/cars/bwidow/parameters.txt: Found
+Loading: packs/io_cars/cars/sasquatch/parameters.txt: Found
+Loading: packs/game_files/cars/twilight/parameters.txt: Not Found
+Loading: packs/io_cars/cars/fd122komet/parameters.txt: Found
+Loading: packs/io_cars/cars/fd5vector/parameters.txt: Found
+Loading: packs/io_cars/cars/vibebox/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/k_tilikum/parameters.txt: Found
+Loading: packs/io_cars/cars/chimtc/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd31civil/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_off/parameters.txt: Found
+Loading: packs/io_cars/cars/fd_s20/parameters.txt: Found
+Loading: packs/io_cars/cars/pm_senno/parameters.txt: Found
+Loading: packs/io_cars/cars/kkruise/parameters.txt: Found
+Loading: packs/io_cars/cars/swheat/parameters.txt: Found
+Loading: packs/io_cars/cars/hetgarde_gt1/parameters.txt: Found
+Loading: packs/io_cars/cars/naranja/parameters.txt: Found
+Loading: packs/io_cars/cars/daemmon/parameters.txt: Found
+Loading: packs/io_cars/cars/lib11d_windslicer/parameters.txt: Found
+Loading: packs/game_files/cars/vixen/parameters.txt: Not Found
+Loading: packs/io_cars/cars/manfred/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_probe24/parameters.txt: Found
+Loading: packs/io_cars/cars/lib16d_grimlock/parameters.txt: Found
+Loading: packs/io_cars/cars/breadfast/parameters.txt: Found
+Loading: packs/io_cars/cars/urbanj/parameters.txt: Found
+Loading: packs/io_cars/cars/marauder/parameters.txt: Found
+Loading: packs/io_cars/cars/fd25sporty/parameters.txt: Found
+Loading: packs/io_cars/cars/eaglet/parameters.txt: Found
+Loading: packs/io_cars/cars/fd96exceed/parameters.txt: Found
+Loading: packs/io_cars/cars/ryu/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_ultrarv/parameters.txt: Found
+Loading: packs/io_cars/cars/hammerhead/parameters.txt: Found
+Loading: packs/io_cars/cars/roadking/parameters.txt: Found
+Loading: packs/io_cars/cars/sizzler/parameters.txt: Found
+Loading: packs/io_cars/cars/fd135romeo/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_sign/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_f77/parameters.txt: Found
+Loading: packs/io_cars/cars/lib9a_pat/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_fd400/parameters.txt: Found
+Loading: packs/io_cars/cars/ttraider/parameters.txt: Found
+Loading: packs/io_cars/cars/nevermore/parameters.txt: Found
+Loading: packs/io_cars/cars/tvtowing/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_outlaw/parameters.txt: Found
+Loading: packs/io_cars/cars/getair/parameters.txt: Found
+Loading: packs/io_cars/cars/rinne/parameters.txt: Found
+Loading: packs/io_cars/cars/cerveth2/parameters.txt: Found
+Loading: packs/io_cars/cars/esheep/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_chc305/parameters.txt: Found
+Loading: packs/io_cars/cars/jgp_bigload/parameters.txt: Found
+Loading: packs/io_cars/cars/bendor/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_dragoon/parameters.txt: Found
+Loading: packs/io_cars/cars/mambra/parameters.txt: Found
+Loading: packs/io_cars/cars/arnoux94/parameters.txt: Found
+Loading: packs/io_cars/cars/junky/parameters.txt: Found
+Loading: packs/io_cars/cars/phatt/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_sin/parameters.txt: Found
+Loading: packs/io_cars/cars/hurri/parameters.txt: Found
+Loading: packs/io_cars/cars/lib17b_cobra/parameters.txt: Found
+Loading: packs/io_cars/cars/gleam/parameters.txt: Found
+Loading: packs/io_cars/cars/rice/parameters.txt: Found
+Loading: packs/io_cars/cars/lib9b_prizmer/parameters.txt: Found
+Loading: packs/io_cars/cars/sideswipe/parameters.txt: Found
+Loading: packs/io_cars/cars/bigmatchjim/parameters.txt: Found
+Loading: packs/io_cars/cars/swede/parameters.txt: Found
+Loading: packs/io_cars/cars/prettychibi/parameters.txt: Found
+Loading: packs/io_cars/cars/visconti/parameters.txt: Found
+Loading: packs/io_cars/cars/p4super/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_acc-gt/parameters.txt: Found
+Loading: packs/io_cars/cars/weaver/parameters.txt: Found
+Loading: packs/io_cars/cars/fd_s21/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_whiplash/parameters.txt: Found
+Loading: packs/io_cars/cars/bhv1/parameters.txt: Found
+Loading: packs/io_cars/cars/kingmoloko/parameters.txt: Found
+Loading: packs/io_cars/cars/gust/parameters.txt: Found
+Loading: packs/io_cars/cars/meanstreak/parameters.txt: Found
+Loading: packs/io_cars/cars/sokudo/parameters.txt: Found
+Loading: packs/io_cars/cars/showdonk/parameters.txt: Found
+Loading: packs/io_cars/cars/condorgrv/parameters.txt: Found
+Loading: packs/io_cars/cars/lib6ax_ancile/parameters.txt: Found
+Loading: packs/io_cars/cars/kuinkusu/parameters.txt: Found
+Loading: packs/io_cars/cars/phenom/parameters.txt: Found
+Loading: packs/io_cars/cars/pemto/parameters.txt: Found
+Loading: packs/io_cars/cars/wave_dancer/parameters.txt: Found
+Loading: packs/io_cars/cars/tier15/parameters.txt: Found
+Loading: packs/io_cars/cars/ironz/parameters.txt: Found
+Loading: packs/io_cars/cars/cintach/parameters.txt: Found
+Loading: packs/io_cars/cars/emilia/parameters.txt: Found
+Loading: packs/io_cars/cars/fd80drage/parameters.txt: Found
+Loading: packs/io_cars/cars/angus/parameters.txt: Found
+Loading: packs/io_cars/cars/gungnir/parameters.txt: Found
+Loading: packs/io_cars/cars/fd150nitromare/parameters.txt: Found
+Loading: packs/io_cars/cars/lib1b_chubba/parameters.txt: Found
+Loading: packs/io_cars/cars/strax/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_slingshot/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_trophytruck/parameters.txt: Found
+Loading: packs/io_cars/cars/starmac/parameters.txt: Found
+Loading: packs/io_cars/cars/kermit/parameters.txt: Found
+Loading: packs/io_cars/cars/nsharp/parameters.txt: Found
+Loading: packs/io_cars/cars/unicorn/parameters.txt: Found
+Loading: packs/io_cars/cars/cossie/parameters.txt: Found
+Loading: packs/io_cars/cars/selsia/parameters.txt: Found
+Loading: packs/io_cars/cars/fd119eb110/parameters.txt: Found
+Loading: packs/io_cars/cars/shinobi/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_chub/parameters.txt: Found
+Loading: packs/io_cars/cars/styn/parameters.txt: Found
+Loading: packs/io_cars/cars/norwood/parameters.txt: Found
+Loading: packs/io_cars/cars/fd54hyper/parameters.txt: Found
+Loading: packs/io_cars/cars/gravelbasher/parameters.txt: Found
+Loading: packs/io_cars/cars/funziona/parameters.txt: Found
+Loading: packs/io_cars/cars/corv75/parameters.txt: Found
+Loading: packs/io_cars/cars/fd50pano/parameters.txt: Found
+Loading: packs/io_cars/cars/saeger/parameters.txt: Found
+Loading: packs/io_cars/cars/muller_gt/parameters.txt: Found
+Loading: packs/io_cars/cars/fd_s9/parameters.txt: Found
+Loading: packs/io_cars/cars/artair/parameters.txt: Found
+Loading: packs/io_cars/cars/cera/parameters.txt: Found
+Loading: packs/io_cars/cars/jgp_5tp/parameters.txt: Found
+Loading: packs/io_cars/cars/lib6a_flat/parameters.txt: Found
+Loading: packs/io_cars/cars/yinisa/parameters.txt: Found
+Loading: packs/io_cars/cars/fd151sylea/parameters.txt: Found
+Loading: packs/io_cars/cars/fd124rally2/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8d_leaf/parameters.txt: Found
+Loading: packs/io_cars/cars/maxamrs/parameters.txt: Found
+Loading: packs/io_cars/cars/fd156testarossa/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_max/parameters.txt: Found
+Loading: packs/io_cars/cars/tx11kaiju/parameters.txt: Found
+Loading: packs/io_cars/cars/locust/parameters.txt: Found
+Loading: packs/io_cars/cars/fd101command/parameters.txt: Found
+Loading: packs/io_cars/cars/harmrcss/parameters.txt: Found
+Loading: packs/io_cars/cars/fatagnus/parameters.txt: Found
+Loading: packs/io_cars/cars/nitromad/parameters.txt: Found
+Loading: packs/io_cars/cars/mudman/parameters.txt: Found
+Loading: packs/io_cars/cars/silviaat/parameters.txt: Found
+Loading: packs/io_cars/cars/rr_sarge/parameters.txt: Found
+Loading: packs/io_cars/cars/steezy/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarppeak/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincartrial/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarmidget/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarbaja/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarbanger/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarmud/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarstream/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarbuggy/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarrally/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarkart/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarbeast/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarsport/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarturbo/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarmodify/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarsuper/parameters.txt: Found
+Loading: packs/io_clockworks_modern/cars/wincarrod/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar12/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar16/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar10/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar8/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar5/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar9/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar6/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar11/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar7/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar2/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar14/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar4/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar1/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar3/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar15/parameters.txt: Found
+Loading: packs/io_clockworks/cars/wuncar13/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/phim_bison/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nrg/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd116inf/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/hoshino/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib20a_capsule/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/rcact/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd81pnr2/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/twlight/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/mach9/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/powasp/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/ksling/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/gtc_nebular/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/starliner/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/salamandra/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/beeble/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd_s8/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/moz_futuron/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd84ze/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/moz_vils/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_monster/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd74solar/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_echo/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nm_desert/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/battaglia/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/tcp_sakura/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/dustshot/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd27lwt959/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/rx8stunna/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_rush/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib17a_mono/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/deepblue/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib7a_formula/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nanorascal/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib8a_zolt/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/teacee/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nh_cle34/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_snake/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_xen/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/retrojet/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/phim_thrasher/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib7b_starway/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/deep250/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/wk/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib17b_nurse/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pestbuster/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nm_dasher/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd42alien/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/swish/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nm_nimbar/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd89top/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/stntmonster/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd39gator/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/commander/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/powerstation/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd91inzect/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib7d_vign/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/gtc_orbitrunner/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/supernova/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/firefreak/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/hg/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/krbsiktrix/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/moz_zero/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/systemc/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_ticoex/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/quadralite/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/spirited/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nrf_mach/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib16c_slim/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/artiko/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd23m4/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/phim_highmaul/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nm_ramatt/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib11c_zaffer/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lgt-3/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib6b_4wd/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/meloncrusher/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib3b_moss/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib19a_dynamo/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/demonslayer/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_pier/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd29zoo/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_type13/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/moz_box/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/flamey/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/bradyon/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/mexicoclassic/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/tx14yinyang/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_boxup/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd59gfx/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nm_fire/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/moz_kiwii/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/phim_caralia/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd28f2/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/bulk/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd_s22/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/giro/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib14c_paraline/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/fd85wrench/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_tsunami/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib8a_cage/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_karino/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/xena/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/vk/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_fp6/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/nm_vex/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib18d_geng/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/brnsteel/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/pm_skytruck/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/cloromorph/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/moz_wing/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/lib16b_speeder/parameters.txt: Found
+Loading: packs/io_cars_bonus/cars/warbird2020/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_jgkaren/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_sunset/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_dash/parameters.txt: Found
+Loading: packs/io_cars/cars/honey/parameters.txt: Found
+Loading: packs/io_cars/cars/rc1999/parameters.txt: Found
+Loading: packs/io_cars/cars/fd_s19/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_ynz/parameters.txt: Found
+Loading: packs/io_cars/cars/camboldr/parameters.txt: Found
+Loading: packs/io_cars/cars/raven/parameters.txt: Found
+Loading: packs/io_cars/cars/aquam/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_tri/parameters.txt: Found
+Loading: packs/io_cars/cars/carp/parameters.txt: Found
+Loading: packs/io_cars/cars/rvrc/parameters.txt: Found
+Loading: packs/io_cars/cars/rv2_coupe/parameters.txt: Found
+Loading: packs/io_cars/cars/amcotc/parameters.txt: Found
+Loading: packs/io_cars/cars/lib7b_nimbus/parameters.txt: Found
+Loading: packs/io_cars/cars/breaker/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8b_rust/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_jackal/parameters.txt: Found
+Loading: packs/io_cars/cars/lib7a_shark/parameters.txt: Found
+Loading: packs/io_cars/cars/lib13a_apc/parameters.txt: Found
+Loading: packs/io_cars/cars/tcp_drifter/parameters.txt: Found
+Loading: packs/io_cars/cars/fd49quazar/parameters.txt: Found
+Loading: packs/io_cars/cars/fzg_madax/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_nyx/parameters.txt: Found
+Loading: packs/io_cars/cars/dal_ember/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_revel/parameters.txt: Found
+Loading: packs/io_cars/cars/toukka/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_bajaette/parameters.txt: Found
+Loading: packs/io_cars/cars/lib14c_gold/parameters.txt: Found
+Loading: packs/io_cars/cars/reliance/parameters.txt: Found
+Loading: packs/io_cars/cars/karl_lc_vc/parameters.txt: Found
+Loading: packs/io_cars/cars/warrionnew/parameters.txt: Found
+Loading: packs/io_cars/cars/cheeser/parameters.txt: Found
+Loading: packs/io_cars/cars/baddrc/parameters.txt: Found
+Loading: packs/io_cars/cars/rrage/parameters.txt: Found
+Loading: packs/io_cars/cars/gtc_junglebeast/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_lmw/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_flir/parameters.txt: Found
+Loading: packs/io_cars/cars/tclock/parameters.txt: Found
+Loading: packs/io_cars/cars/blazar/parameters.txt: Found
+Loading: packs/io_cars/cars/middle5/parameters.txt: Found
+Loading: packs/io_cars/cars/gtc_sandstorm/parameters.txt: Found
+Loading: packs/io_cars/cars/lib6d_moby/parameters.txt: Found
+Loading: packs/io_cars/cars/lib16b_junker/parameters.txt: Found
+Loading: packs/io_cars/cars/tcp_watt/parameters.txt: Found
+Loading: packs/io_cars/cars/lib13c_hotknife/parameters.txt: Found
+Loading: packs/io_cars/cars/lib4a_blobster/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_wild/parameters.txt: Found
+Loading: packs/io_cars/cars/ahiruoozora/parameters.txt: Found
+Loading: packs/io_cars/cars/lib18d_cherencov/parameters.txt: Found
+Loading: packs/io_cars/cars/lib14d_predator/parameters.txt: Found
+Loading: packs/io_cars/cars/nm_trundle/parameters.txt: Found
+Loading: packs/io_cars/cars/lib16b_recon/parameters.txt: Found
+Loading: packs/io_cars/cars/fd109blaze/parameters.txt: Found
+Loading: packs/io_cars/cars/hsf1/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_spike/parameters.txt: Found
+Loading: packs/io_cars/cars/flea/parameters.txt: Found
+Loading: packs/io_cars/cars/sunnyboy/parameters.txt: Found
+Loading: packs/io_cars/cars/hs/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_au8/parameters.txt: Found
+Loading: packs/io_cars/cars/erazer/parameters.txt: Found
+Loading: packs/io_cars/cars/maxxas/parameters.txt: Found
+Loading: packs/io_cars/cars/twyster/parameters.txt: Found
+Loading: packs/io_cars/cars/frostbt/parameters.txt: Found
+Loading: packs/io_cars/cars/quamo/parameters.txt: Found
+Loading: packs/io_cars/cars/phim_sentaro/parameters.txt: Found
+Loading: packs/io_cars/cars/lib9b_spectrum/parameters.txt: Found
+Loading: packs/io_cars/cars/lib16d_maverick/parameters.txt: Found
+Loading: packs/io_cars/cars/microtc/parameters.txt: Found
+Loading: packs/io_cars/cars/fd140oil/parameters.txt: Found
+Loading: packs/io_cars/cars/lib7a_spray/parameters.txt: Found
+Loading: packs/io_cars/cars/lib19a_myrmech/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_midtruck/parameters.txt: Found
+Loading: packs/io_cars/cars/thunder/parameters.txt: Found
+Loading: packs/io_cars/cars/cerberus/parameters.txt: Found
+Loading: packs/io_cars/cars/madnessrc/parameters.txt: Found
+Loading: packs/io_cars/cars/spearhead/parameters.txt: Found
+Loading: packs/io_cars/cars/ridgeback/parameters.txt: Found
+Loading: packs/io_cars/cars/lib15a_hydro/parameters.txt: Found
+Loading: packs/io_cars/cars/indyb/parameters.txt: Found
+Loading: packs/io_cars/cars/camelia/parameters.txt: Found
+Loading: packs/io_cars/cars/lib6a_lithmus/parameters.txt: Found
+Loading: packs/io_cars/cars/gt84/parameters.txt: Found
+Loading: packs/io_cars/cars/tcp_lancer/parameters.txt: Found
+Loading: packs/io_cars/cars/lib17b_frog/parameters.txt: Found
+Loading: packs/io_cars/cars/psqueak/parameters.txt: Found
+Loading: packs/io_cars/cars/tcp_wyvern/parameters.txt: Found
+Loading: packs/io_cars/cars/panthergto/parameters.txt: Found
+Loading: packs/io_cars/cars/speedbalancer/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_sunrise/parameters.txt: Found
+Loading: packs/io_cars/cars/lib6a_jet/parameters.txt: Found
+Loading: packs/io_cars/cars/ultradrive/parameters.txt: Found
+Loading: packs/io_cars/cars/updraft/parameters.txt: Found
+Loading: packs/io_cars/cars/silva/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_onto/parameters.txt: Found
+Loading: packs/io_cars/cars/wintercelica/parameters.txt: Found
+Loading: packs/io_cars/cars/mongoose/parameters.txt: Found
+Loading: packs/io_cars/cars/moz_slash/parameters.txt: Found
+Loading: packs/io_cars/cars/nrf_runner/parameters.txt: Found
+Loading: packs/io_cars/cars/lib9a_ignit/parameters.txt: Found
+Loading: packs/io_cars/cars/badbis/parameters.txt: Found
+Loading: packs/io_cars/cars/fd_s18/parameters.txt: Found
+Loading: packs/io_cars/cars/lib7a_canam/parameters.txt: Found
+Loading: packs/io_cars/cars/phantum/parameters.txt: Found
+Loading: packs/io_cars/cars/smokie/parameters.txt: Found
+Loading: packs/io_cars/cars/bumblebee/parameters.txt: Found
+Loading: packs/io_cars/cars/lib8a_capper/parameters.txt: Found
+Loading: packs/io_cars/cars/fd3kc3/parameters.txt: Found
+Loading: packs/io_cars/cars/mrbedtime/parameters.txt: Found
+Loading: packs/io_cars/cars/dflame/parameters.txt: Found
+Loading: packs/io_cars/cars/lib17a_rapid/parameters.txt: Found
+Loading: packs/io_cars/cars/hydrox/parameters.txt: Found
+Loading: packs/io_cars/cars/lib6d_delight/parameters.txt: Found
+Loading: packs/io_cars/cars/lib17a_light/parameters.txt: Found
+Loading: packs/io_cars/cars/fd53zad/parameters.txt: Found
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
+Loading: packs/rvgl_assets/gfx/devlogo1a.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo1b.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo1c.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo2a.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo2b.bmp: Found
+Loading: packs/rvgl_assets/gfx/devlogo2c.bmp: Found
+Loading: [Begin Level Load]
+Loading: packs/game_files/levels/intro/intro.pan: Not Found
+Loading: packs/rvgl_assets/levels/intro/intro.inf: Found
+Loading: packs/game_files/levels/intro/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmp: Found
+Loading: packs/game_files/gfx/envstill.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/rvgl_assets/levels/intro/introa.bmp: Found
+Loading: packs/rvgl_assets/levels/intro/introb.bmp: Found
+Warning: Could not find texture: 'levels/intro/introc.bmp'
+Warning: Could not find texture: 'levels/intro/introd.bmp'
+Warning: Could not find texture: 'levels/intro/introe.bmp'
+Warning: Could not find texture: 'levels/intro/introf.bmp'
+Warning: Could not find texture: 'levels/intro/introg.bmp'
+Warning: Could not find texture: 'levels/intro/introh.bmp'
+Warning: Could not find texture: 'levels/intro/introi.bmp'
+Warning: Could not find texture: 'levels/intro/introj.bmp'
+Loading: packs/rvgl_assets/levels/intro/intro.w: Found
+Loading: packs/rvgl_assets/levels/intro/intro.vis: Found
+World: Cubes 4  Buffers 4  Groups 4
+Loading: packs/rvgl_assets/levels/intro/intro.rim: Found
+Loading: packs/rvgl_assets/levels/intro/intro.fin: Found
+Loading: packs/rvgl_assets/levels/intro/intro.ncp: Found
+Loading: packs/rvgl_assets/levels/intro/intro.lit: Found
+Loading: packs/game_files/levels/intro/intro.taz: Not Found
+Loading: packs/game_files/levels/intro/intro.fan: Not Found
+Loading: packs/game_files/levels/intro/intro.fld: Not Found
+Loading: packs/game_files/levels/intro/intro.pan: Not Found
+Loading: packs/game_files/levels/intro/intro.cam: Not Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/intro/intro.tri: Not Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/intro/custom_animations.txt: Not Found
+Loading: packs/game_files/levels/intro/intro.fob: Not Found
+Loading: packs/rvgl_assets/cars/ufo/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/ufo/car.bmp: Found
+Loading: packs/game_files/cars/ufo/car.bmq: Found
+Loading: packs/rvgl_assets/cars/ufo/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/ufo/shadow.bmq: Found
+Loading: packs/game_files/cars/ufo/body.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/ufo/hull.hul: Found
+Loading: packs/game_files/cars/rc/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "90.000000"
+Loading: packs/game_files/cars/rc/car.bmp: Found
+Loading: packs/game_files/cars/rc/car.bmq: Found
+Loading: packs/game_files/cars/rc/body.prm: Found
+Loading: packs/game_files/cars/rc/wheelfl.prm: Found
+Loading: packs/game_files/cars/rc/wheelfr.prm: Found
+Loading: packs/game_files/cars/rc/wheelbl.prm: Found
+Loading: packs/game_files/cars/rc/wheelbr.prm: Found
+Loading: packs/game_files/cars/rc/spring.prm: Found
+Loading: packs/game_files/cars/rc/axle.prm: Found
+Loading: packs/game_files/cars/rc/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/rc/hull.hul: Found
+Loading: packs/game_files/cars/flag/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/flag/car.bmp: Found
+Loading: packs/game_files/cars/flag/car.bmq: Found
+Loading: packs/game_files/cars/flag/body.prm: Found
+Loading: packs/game_files/cars/flag/wheelfl.prm: Found
+Loading: packs/game_files/cars/flag/wheelfr.prm: Found
+Loading: packs/game_files/cars/flag/wheelbl.prm: Found
+Loading: packs/game_files/cars/flag/wheelbr.prm: Found
+Loading: packs/game_files/cars/flag/spring.prm: Found
+Loading: packs/game_files/cars/flag/axle.prm: Found
+Loading: packs/game_files/cars/flag/pin.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/flag/hull.hul: Found
+Loading: [End Level Load] (520 ms)
+Loading: packs/game_files/models/probe.m: Found
+Loading: packs/game_files/models/probe.hul: Found
+Loading: packs/rvgl_assets/levels/intro/ufopath.pth: Found
+Loading: [Begin Level Load]
+Loading: packs/rvgl_assets/gfx/font.bmo: Found
+Loading: packs/game_files/gfx/spru.bmp: Found
+Loading: packs/rvgl_assets/gfx/spruimage.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadinga.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingb.bmq: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmp: Found
+Loading: packs/rvgl_assets/gfx/loadingc.bmq: Found
+Loading: packs/game_files/levels/frontend/frontend.pan: Found
+Loading: packs/game_files/gfx/loadfront1.bmp: Found
+Loading: packs/game_files/gfx/loadfront2.bmp: Found
+Loading: packs/game_files/gfx/loadfront3.bmp: Found
+Loading: packs/game_files/gfx/loadfront4.bmp: Found
+Loading: packs/rvgl_assets/levels/frontend/frontend.inf: Found
+Loading: packs/game_files/levels/frontend/properties.txt: Not Found
+Loading: packs/game_files/gfx/fxpage1.bmp: Found
+Loading: packs/rvgl_assets/gfx/fxpage2.bmp: Found
+Loading: packs/game_files/gfx/fxpage3.bmp: Found
+Loading: packs/game_files/gfx/envfront.bmp: Found
+Loading: packs/game_files/gfx/envfront.bmq: Found
+Loading: packs/game_files/gfx/envroll.bmp: Found
+Loading: packs/game_files/gfx/envroll.bmq: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/shadow.bmq: Found
+Loading: packs/game_files/levels/frontend/frontenda.bmp: Found
+Loading: packs/game_files/levels/frontend/frontenda.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendb.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendb.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendc.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendc.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendd.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendd.bmq: Found
+Loading: packs/game_files/levels/frontend/frontende.bmp: Found
+Loading: packs/game_files/levels/frontend/frontende.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendf.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendf.bmq: Found
+Loading: packs/game_files/levels/frontend/frontendg.bmp: Found
+Loading: packs/game_files/levels/frontend/frontendg.bmq: Found
+Warning: Could not find texture: 'levels/frontend/frontendh.bmp'
+Warning: Could not find texture: 'levels/frontend/frontendi.bmp'
+Warning: Could not find texture: 'levels/frontend/frontendj.bmp'
+Loading: packs/rvgl_assets/levels/frontend/frontend.w: Found
+Loading: packs/game_files/levels/frontend/frontend.vis: Found
+World: Cubes 10  Buffers 33  Groups 33
+Loading: packs/game_files/levels/frontend/frontend.rim: Found
+Loading: packs/game_files/levels/frontend/box02.prm: Found
+Loading: packs/game_files/levels/frontend/box02.ncp: Not Found
+Loading: packs/game_files/levels/frontend/track.prm: Found
+Loading: packs/game_files/levels/frontend/track.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockcase.prm: Found
+Loading: packs/game_files/levels/frontend/clockcase.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box5.prm: Found
+Loading: packs/game_files/levels/frontend/box5.ncp: Not Found
+Loading: packs/game_files/levels/frontend/tvstand.prm: Found
+Loading: packs/game_files/levels/frontend/tvstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/largemagstand.prm: Found
+Loading: packs/game_files/levels/frontend/largemagstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/plain.prm: Found
+Loading: packs/game_files/levels/frontend/plain.ncp: Not Found
+Loading: packs/game_files/levels/frontend/pangacard.prm: Found
+Loading: packs/game_files/levels/frontend/pangacard.ncp: Found
+Loading: packs/game_files/levels/frontend/magstand.prm: Found
+Loading: packs/game_files/levels/frontend/magstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/ufostand.prm: Found
+Loading: packs/game_files/levels/frontend/ufostand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box03.prm: Found
+Loading: packs/game_files/levels/frontend/box03.ncp: Not Found
+Loading: packs/game_files/levels/frontend/hellbody.prm: Found
+Loading: packs/game_files/levels/frontend/hellbody.ncp: Not Found
+Loading: packs/game_files/levels/frontend/podium.prm: Found
+Loading: packs/game_files/levels/frontend/podium.ncp: Found
+Loading: packs/game_files/levels/frontend/helbladesmall.prm: Found
+Loading: packs/game_files/levels/frontend/helbladesmall.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box05.prm: Found
+Loading: packs/game_files/levels/frontend/box05.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup01.prm: Found
+Loading: packs/game_files/levels/frontend/cup01.ncp: Not Found
+Loading: packs/game_files/levels/frontend/light.prm: Found
+Loading: packs/game_files/levels/frontend/light.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box01.prm: Found
+Loading: packs/game_files/levels/frontend/box01.ncp: Not Found
+Loading: packs/game_files/levels/frontend/bballbox.prm: Found
+Loading: packs/game_files/levels/frontend/bballbox.ncp: Not Found
+Loading: packs/game_files/levels/frontend/helbladebig.prm: Found
+Loading: packs/game_files/levels/frontend/helbladebig.ncp: Not Found
+Loading: packs/game_files/levels/frontend/chicks.prm: Found
+Loading: packs/game_files/levels/frontend/chicks.ncp: Not Found
+Loading: packs/game_files/levels/frontend/posterstand.prm: Found
+Loading: packs/game_files/levels/frontend/posterstand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/box04.prm: Found
+Loading: packs/game_files/levels/frontend/box04.ncp: Not Found
+Loading: packs/game_files/levels/frontend/smallscreen.prm: Found
+Loading: packs/game_files/levels/frontend/smallscreen.ncp: Not Found
+Loading: packs/game_files/levels/frontend/hellsb.prm: Found
+Loading: packs/game_files/levels/frontend/hellsb.ncp: Not Found
+Loading: packs/game_files/levels/frontend/posterstand2.prm: Found
+Loading: packs/game_files/levels/frontend/posterstand2.ncp: Not Found
+Loading: packs/game_files/levels/frontend/salebin.prm: Found
+Loading: packs/game_files/levels/frontend/salebin.ncp: Not Found
+Loading: packs/game_files/levels/frontend/frontend.fin: Found
+Loading: packs/game_files/levels/frontend/frontend.ncp: Found
+Loading: packs/game_files/levels/frontend/frontend.lit: Found
+Loading: packs/game_files/levels/frontend/frontend.taz: Found
+Loading: packs/game_files/levels/frontend/frontend.fan: Found
+Loading: packs/game_files/levels/frontend/frontend.fld: Found
+Loading: packs/game_files/levels/frontend/frontend.pan: Found
+Loading: packs/game_files/levels/frontend/frontend.cam: Found
+Loading: packs/rvgl_assets/models/go3.m: Found
+Loading: packs/game_files/models/go2.m: Found
+Loading: packs/game_files/models/go1.m: Found
+Loading: packs/game_files/models/gogo.m: Found
+Loading: packs/game_files/models/drum.m: Found
+Loading: packs/game_files/models/mt.bin: Found
+Warning: Existing OpenAL error in LoadSfx(): 0
+Loading: packs/game_files/wavs/moto.wav: Found
+Loading: packs/game_files/wavs/petrol.wav: Found
+Loading: packs/game_files/wavs/clockwrk.wav: Found
+Loading: packs/game_files/wavs/ufo.wav: Found
+Loading: packs/game_files/wavs/honkgood.wav: Found
+Loading: packs/game_files/wavs/scrape.wav: Found
+Loading: packs/game_files/wavs/skid_normal.wav: Found
+Loading: packs/game_files/wavs/skid_rough.wav: Found
+Loading: packs/game_files/wavs/pickup.wav: Found
+Loading: packs/game_files/wavs/pickgen.wav: Found
+Loading: packs/game_files/wavs/shock.wav: Found
+Loading: packs/game_files/wavs/shockfire.wav: Found
+Loading: packs/game_files/wavs/electro.wav: Found
+Loading: packs/game_files/wavs/electrozap.wav: Found
+Loading: packs/game_files/wavs/firefire.wav: Found
+Loading: packs/game_files/wavs/firebang.wav: Found
+Loading: packs/game_files/wavs/balldrop.wav: Found
+Loading: packs/game_files/wavs/ball.wav: Found
+Loading: packs/game_files/wavs/hit2.wav: Found
+Loading: packs/game_files/wavs/wbomb.wav: Found
+Loading: packs/game_files/wavs/wbombfire.wav: Found
+Loading: packs/game_files/wavs/wbombhit.wav: Found
+Loading: packs/game_files/wavs/wbombbounce.wav: Found
+Loading: packs/game_files/wavs/puttbang.wav: Found
+Loading: packs/game_files/wavs/fuse.wav: Found
+Loading: packs/game_files/wavs/oildrop.wav: Found
+Loading: packs/game_files/wavs/countdown.wav: Found
+Loading: packs/game_files/wavs/turbo.wav: Found
+Loading: packs/game_files/wavs/servo.wav: Found
+Loading: packs/game_files/wavs/menunext.wav: Found
+Loading: packs/game_files/wavs/menuprev.wav: Found
+Loading: packs/game_files/wavs/menuupdown.wav: Found
+Loading: packs/game_files/wavs/menuleftright.wav: Found
+Loading: packs/game_files/wavs/lightflk.wav: Found
+Loading: packs/game_files/wavs/boxslide.wav: Found
+Loading: packs/game_files/wavs/starfire.wav: Found
+Loading: packs/game_files/wavs/tvstatic.wav: Found
+Loading: packs/game_files/wavs/splash.wav: Found
+Loading: packs/game_files/wavs/honka.wav: Found
+Loading: packs/game_files/levels/frontend/frontend.tri: Found
+Loading: packs/game_files/models/pickup.m: Found
+Loading: packs/game_files/models/pickup.hul: Not Found
+Loading: packs/game_files/models/pickup.ncp: Not Found
+Loading: packs/game_files/models/firework.m: Found
+Loading: packs/game_files/models/firework.hul: Found
+Loading: packs/game_files/models/wbomb.m: Found
+Loading: packs/game_files/models/wbomb.hul: Not Found
+Loading: packs/game_files/models/wbomb.ncp: Not Found
+Loading: packs/game_files/models/ball.m: Found
+Loading: packs/game_files/models/ball.hul: Not Found
+Loading: packs/game_files/models/ball.ncp: Not Found
+Loading: packs/rvgl_assets/models/bomb.m: Found
+Loading: packs/game_files/models/bomb.hul: Not Found
+Loading: packs/game_files/models/bomb.ncp: Not Found
+Loading: packs/game_files/models/star.m: Found
+Loading: packs/game_files/models/star.hul: Not Found
+Loading: packs/game_files/models/star.ncp: Not Found
+Loading: packs/game_files/levels/frontend/custom_animations.txt: Not Found
+Loading: packs/rvgl_dcpack/levels/frontend/frontend.fob: Found
+Loading: packs/game_files/levels/frontend/smallscreen.m: Found
+Loading: packs/game_files/levels/frontend/smallscreen.hul: Not Found
+Loading: packs/game_files/levels/frontend/smallscreen.ncp: Not Found
+Loading: packs/game_files/levels/frontend/namestand.m: Found
+Loading: packs/game_files/levels/frontend/namestand.hul: Not Found
+Loading: packs/game_files/levels/frontend/namestand.ncp: Not Found
+Loading: packs/game_files/levels/frontend/namewheel.m: Found
+Loading: packs/game_files/levels/frontend/namewheel.hul: Not Found
+Loading: packs/game_files/levels/frontend/namewheel.ncp: Not Found
+Loading: packs/game_files/levels/frontend/carbox.m: Found
+Loading: packs/game_files/levels/frontend/carbox.hul: Not Found
+Loading: packs/game_files/levels/frontend/carbox.ncp: Not Found
+Loading: packs/game_files/levels/frontend/plainbox.m: Found
+Loading: packs/game_files/levels/frontend/plainbox.hul: Not Found
+Loading: packs/game_files/levels/frontend/plainbox.ncp: Not Found
+Loading: packs/game_files/models/cone.m: Found
+Loading: packs/game_files/models/cone.hul: Found
+Loading: packs/game_files/levels/frontend/bigscreen.m: Found
+Loading: packs/game_files/levels/frontend/bigscreen.hul: Not Found
+Loading: packs/game_files/levels/frontend/bigscreen.ncp: Not Found
+Loading: packs/game_files/gfx/nhood1.bmp: Found
+Loading: packs/game_files/gfx/nhood1.bmq: Found
+Loading: packs/game_files/levels/frontend/clockbody.m: Found
+Loading: packs/game_files/levels/frontend/clockbody.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockbody.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockhandsmall.m: Found
+Loading: packs/game_files/levels/frontend/clockhandsmall.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockhandsmall.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockhandlarge.m: Found
+Loading: packs/game_files/levels/frontend/clockhandlarge.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockhandlarge.ncp: Not Found
+Loading: packs/game_files/levels/frontend/clockdisc.m: Found
+Loading: packs/game_files/levels/frontend/clockdisc.hul: Not Found
+Loading: packs/game_files/levels/frontend/clockdisc.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup04.m: Found
+Loading: packs/game_files/levels/frontend/cup04.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup04.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup02.m: Found
+Loading: packs/game_files/levels/frontend/cup02.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup02.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup01.m: Found
+Loading: packs/game_files/levels/frontend/cup01.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup01.ncp: Not Found
+Loading: packs/game_files/levels/frontend/cup03.m: Found
+Loading: packs/game_files/levels/frontend/cup03.hul: Not Found
+Loading: packs/game_files/levels/frontend/cup03.ncp: Not Found
+Loading: packs/rvgl_assets/cars/wincar/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/wincar/car.bmp: Found
+Loading: packs/game_files/cars/wincar/car.bmq: Found
+Loading: packs/rvgl_assets/cars/wincar/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/wincar/shadow.bmq: Found
+Loading: packs/game_files/cars/wincar/body.prm: Found
+Loading: packs/game_files/cars/wincar/wheelfl.prm: Found
+Loading: packs/game_files/cars/wincar/wheelfr.prm: Found
+Loading: packs/game_files/cars/wincar/wheelbl.prm: Found
+Loading: packs/game_files/cars/wincar/wheelbr.prm: Found
+Loading: packs/game_files/cars/wincar/key.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/wincar/hull.hul: Found
+Loading: packs/rvgl_assets/cars/wincar2/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/wincar2/car.bmp: Found
+Loading: packs/game_files/cars/wincar2/car.bmq: Found
+Loading: packs/rvgl_assets/cars/wincar2/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/wincar2/shadow.bmq: Found
+Loading: packs/game_files/cars/wincar2/body.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelfl.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelfr.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelbl.prm: Found
+Loading: packs/game_files/cars/wincar2/wheelbr.prm: Found
+Loading: packs/game_files/cars/wincar2/key.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/wincar2/hull.hul: Found
+Loading: packs/rvgl_assets/cars/wincar3/parameters.txt: Found
+Warning: Unrecognised word: "Handling"
+Warning: Unrecognised word: "50.000000"
+Loading: packs/game_files/cars/wincar3/car.bmp: Found
+Loading: packs/game_files/cars/wincar3/car.bmq: Found
+Loading: packs/rvgl_assets/cars/wincar3/shadow.bmp: Found
+Loading: packs/rvgl_assets/cars/wincar3/shadow.bmq: Found
+Loading: packs/game_files/cars/wincar3/body.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelfl.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelfr.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelbl.prm: Found
+Loading: packs/game_files/cars/wincar3/wheelbr.prm: Found
+Loading: packs/game_files/cars/wincar3/key.prm: Found
+Loading: packs/game_files/cars/misc/aerial.m: Found
+Loading: packs/game_files/cars/misc/aerialt.m: Found
+Loading: packs/game_files/cars/wincar3/hull.hul: Found
+Loading: packs/game_files/redbook/track02.wav: Not Found
+Loading: packs/io_soundtrack/redbook/track02.ogg: Found
+Loading: [End Level Load] (2742 ms)
+Loading: packs/game_files/levels/frontend/frontend.txt: Not Found
+Loading: packs/rvgl_assets/cars/misc/carbox1.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox2.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox3.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox4.bmp: Found
+Loading: packs/rvgl_assets/cars/misc/carbox5.bmp: Found
+Loading: profiles/rvgl/profile.ini: Not Found
+Loading: packs/game_files/levels/stunts/stunts.fob: Found
+Loading: profiles/rvgl/nhood1.level: Not Found
+Loading: profiles/rvgl/market2.level: Not Found
+Loading: profiles/rvgl/muse2.level: Not Found
+Loading: profiles/rvgl/garden1.level: Not Found
+Loading: profiles/rvgl/roof.level: Not Found
+Loading: profiles/rvgl/toylite.level: Not Found
+Loading: profiles/rvgl/wild_west1.level: Not Found
+Loading: profiles/rvgl/toy2.level: Not Found
+Loading: profiles/rvgl/nhood2.level: Not Found
+Loading: profiles/rvgl/ship1.level: Not Found
+Loading: profiles/rvgl/muse1.level: Not Found
+Loading: profiles/rvgl/market1.level: Not Found
+Loading: profiles/rvgl/wild_west2.level: Not Found
+Loading: profiles/rvgl/ship2.level: Not Found
+Loading: profiles/rvgl/district.level: Not Found
+Loading: profiles/rvgl/dtown1.level: Not Found
+Loading: profiles/rvgl/dtown2.level: Not Found
+Loading: profiles/rvgl/fair1.level: Not Found
+Loading: profiles/rvgl/fair2.level: Not Found
+Loading: profiles/rvgl/home1.level: Not Found
+Loading: profiles/rvgl/home2.level: Not Found
+Loading: profiles/rvgl/hospital1.level: Not Found
+Loading: profiles/rvgl/hospital2.level: Not Found
+Loading: profiles/rvgl/roof1.level: Not Found
+Loading: packs/game_files/levels/stunts/stunts.fob: Found
+Loading: profiles/rvgl/stunts.stunt: Not Found
+Loading: packs/rvgl_assets/strings/french.txt: Found
+Input: Opened controller at slot 0: Axes 6, Buttons 15, Hats 1
+Loading: profiles/rvgl/profile.ini: Found
+Loading: profiles/rvgl/nhood1.level: Found
+Loading: profiles/rvgl/market2.level: Found
+Loading: profiles/rvgl/muse2.level: Found
+Loading: profiles/rvgl/garden1.level: Found
+Loading: profiles/rvgl/roof.level: Found
+Loading: profiles/rvgl/toylite.level: Found
+Loading: profiles/rvgl/wild_west1.level: Found
+Loading: profiles/rvgl/toy2.level: Found
+Loading: profiles/rvgl/nhood2.level: Found
+Loading: profiles/rvgl/ship1.level: Found
+Loading: profiles/rvgl/muse1.level: Found
+Loading: profiles/rvgl/market1.level: Found
+Loading: profiles/rvgl/wild_west2.level: Found
+Loading: profiles/rvgl/ship2.level: Found
+Loading: profiles/rvgl/stunts.stunt: Found
+Loading: profiles/rvgl.ini: Found

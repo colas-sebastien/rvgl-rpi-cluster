@@ -6,7 +6,8 @@ Setup 4x RaspberryPi 4 in cluster to play rvgl (Re-Volt) on a single display and
 - 4x Raspberry Pi 4 (1Gb, 2Gb or 4Gb of Ram)
 - 4x USB-C to USB cables
 - 4x Micro HTMI to HDMI Cables
-- 4x Mrico SDCard (Minimum 16Gb of mem)
+- 4x Micro SDCard (Minimum 16Gb of mem)
+- 4x GamePad (Xbox Wireless Controller for example)
 - 1x HDMI Quad Viewer
 - 1x HDMI cable
 - 1x Ethernet Switch with at least 5 ports
@@ -51,9 +52,19 @@ Install packages needed by rvgl:
 ./execute_on_cluster.sh packages_to_install
 ```
 
+Setup you language by modifying the file (default is French)
+```
+/to-deploy/rvgl/profiles/rvgl/profile.ini
+```
+
 Install remote files:
 ```
 ./deploy_files_on_cluster.sh
+```
+
+Change background images to RVGL + Number:
+```
+./execute_on_cluster.sh background_number
 ```
 
 Configure Bluetooth devices on each cluster member
@@ -61,16 +72,28 @@ Configure Bluetooth devices on each cluster member
 ssh rvgl@rvgl-1.local
 bluetoothctl
 scan on
+scan off
 pair BT_ADDRESS
+trust BT_ADDRESS
 connect BT_ADDRESS
 ```
-
 
 Install RVGL Launcher on your linux machine
 https://rvgl.org/downloads/rvgl_launcher_linux.zip
 
 
-./rvgl.64 -basepath /ssdgames/rvgl -prefpath /ssdgames/rvgl/save -packlist default -nop2p -sessionlog -nointro -nopause -profile cassbeck -savereplays -showping -tvtime
+Deploy rvgl on the cluster:
+```
+./deploy_rvgl_from_local.sh
+```
+
+Activate Autostart:
+```
+./execute_on_cluster.sh activate_autostart
+```
+
+# TODO
+- configure audio output to hdmi
 
 # Troubleshooting
 ## Unpair a Bluetooth joypad:
@@ -80,5 +103,8 @@ bluetoothctl
 cancel-pairing BT_ADDRESS
 remove BT_ADDRESS
 ```
+
+## Xbox Wireless Controller not working
+Please update your firmware on a Windows machine thanks to [Xbox accessories](https://apps.microsoft.com/detail/9nblggh30xj3)
 
 

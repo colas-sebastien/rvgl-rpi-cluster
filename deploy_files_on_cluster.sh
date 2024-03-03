@@ -7,5 +7,4 @@ do
 	echo '*****************'
 	rsync -vra to-deploy/ rvgl@rvgl-${cluster_num}.local:
     echo
-
 done
