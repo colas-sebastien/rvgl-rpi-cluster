@@ -54,7 +54,7 @@ Install packages needed by rvgl:
 
 Setup you language by modifying the file (default is French)
 ```
-/to-deploy/rvgl/profiles/rvgl/profile.ini
+to-deploy/rvgl/profiles/vas0sky/profile.ini
 ```
 
 Install remote files:
@@ -92,6 +92,10 @@ Activate Autostart:
 ./execute_on_cluster.sh activate_autostart
 ```
 
+Audio HDMI:
+```
+amixer cset numid=3 2
+```
 # TODO
 - configure audio output to hdmi
 
@@ -108,3 +112,5 @@ remove BT_ADDRESS
 Please update your firmware on a Windows machine thanks to [Xbox accessories](https://apps.microsoft.com/detail/9nblggh30xj3)
 
 
+# Links:
+- https://www.speedrun.com/it-IT/revolt/resources
