@@ -1,18 +1,22 @@
+![imager step 1](img/cluster.jpg)
+https://youtu.be/NhlU563p5lg
 # rvgl-rpi-cluster
 Setup 4x RaspberryPi 4 in cluster to play rvgl (Re-Volt) on a single display and play in network mode
+
 
 ## Hardware
 ### Bill of Materials
 - 4x Raspberry Pi 4 (1Gb, 2Gb or 4Gb of Ram)
-- 4x USB-C to USB cables
-- 4x Micro HTMI to HDMI Cables
+- 4x Raspberry Pi PoE+ HAT
 - 4x Micro SDCard (Minimum 16Gb of mem)
-- 4x GamePad (Xbox Wireless Controller for example)
+- 4x Micro HDMI to HDMI Cables
 - 1x HDMI Quad Viewer
 - 1x HDMI cable
-- 1x Ethernet Switch with at least 5 ports
+- 1x Ethernet Switch PoE with at least 5 ports
 - 4x Ethernet short cables
 - 1x Ethernet long cable
+- 4x GamePad (Xbox Wireless Controller for example)
+
 ### Connecting everything together
 
 ## Software
@@ -114,3 +118,16 @@ Please update your firmware on a Windows machine thanks to [Xbox accessories](ht
 
 # Links:
 - https://www.speedrun.com/it-IT/revolt/resources
+- https://forums.raspberrypi.com/viewtopic.php?t=271009
+
+
+- update firmware rpi-update
+- raspi-config Advances A6 Waylmand, W1 X11
+
+
+| Resolution | Min FPS | Max FPS |
+|------------|---------|---------|
+|  1920x1080 |     35  |  49     |
+|  1680x1050 |     44  |  56     |
+|  1600x1000 |     49  |  60     |
+|  1440x900  |     60  |  60     |
